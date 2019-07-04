@@ -4,8 +4,12 @@
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/220px-RTHK_TV_32.svg.png" group-title="(香港/澳门/臺灣)", 港台電視 32
 http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
-#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/evchk/images/8/88/Tvb_Jade_cap.png/revision/latest?cb=20180530133429" group-title="(香港/澳门/臺灣)",無綫翡翠台
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/evchk/images/8/88/Tvb_Jade_cap.png/revision/latest?cb=2018053013342" group-title="(香港/澳门/臺灣)",無綫翡翠
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1Channel
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/evchk/images/8/88/Tvb_Jade_cap.png/revision/latest?cb=2018053013342" group-title="(香港/澳门/臺灣)",無綫翡翠 HD
+http://devlivepull.migucloud.com/live/ba00d9a107d735d963f33a612698d31e/playlist.m3u8
+#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/314_300.png" group-title="(香港/澳门/臺灣)",TVB星河
+http://pull-l3-xg.ixigua.com/live/ch0002.m3u8
 #EXTINF:0 tvg-logo="http://img.tvb.com/corporate/_fck_/image/TVB_Finance%20&%20Information%20logo_2018(1).jpg" group-title="(香港/澳门/臺灣)", 無綫財經資訊台
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist_w1211981021_b1096000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/180px-Phoenix_Chinese.svg.png" group-title="(香港/澳门/臺灣)", 凤凰卫视中文台
@@ -159,10 +163,6 @@ http://223.110.242.130:6610/gitv/live1/G_CCTV-2-CQ/index.m3u8
 http://223.110.242.130:6610/gitv/live1/G_CCTV-3-HQ/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4.jpg" group-title="中央电视",CCTV-4 中文国际
 http://39.135.16.142:6060/PLTV/88888888/224/3221225779/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv5.jpg" group-title="中央电视",CCTV-5 体育频道
-http://223.110.242.130:6610/gitv/live1/G_CCTV-5-HQ/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv5+.jpg" group-title="中央电视",CCTV-5+ 体育赛事频道
-http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv6.jpg" group-title="中央电视",CCTV-6 电影
 http://223.110.242.130:6610/gitv/live1/G_CCTV-6-HQ/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv7.jpg" group-title="中央电视",CCTV-7 军事·农业
@@ -274,7 +274,14 @@ http://111.40.205.76/PLTV/88888888/224/3221225681/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntdtv.com/assets/themes/ntd/images/logo/logo_ntd.png" group-title="China (中国)", 新唐人中国台
 https://live2.ntdimg.com/cnlive/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://n.sinaimg.cn/finance/crawl/300/w550h550/20190428/AMGL-hwfpcxm6839020.jpg" group-title="地方电视台",海南卫视
+http://pili-live-hls.livelvy.sobeycache.com/livelvy/lvy1.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/sanya.jpg" group-title="地方电视台",三亚新闻
+http://hnsy.chinashadt.com:1935/live/syzb.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec12b73df5.png" group-title="地方电视台", 宁夏卫视
+http://111.40.205.76/PLTV/88888888/224/3221225632/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/07/Tibet_TV_logo.jpg" group-title="地方电视台",西藏卫视
+http://111.40.205.76/PLTV/88888888/224/3221225638/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/12/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="地方电视台(安徽)", 安徽卫视
 http://112.50.243.8/PLTV/88888888/224/3221225945/3.m3u8
@@ -1055,7 +1062,6 @@ http://live1.hrtonline.cn:1935/live/live102/500K/tzwj_video.m3u8
 http://www.vctv.com.cn:9090/hls/zkghtv1.m3u8
 #EXTINF:-1 tvg-logo="http://218.11.133.12/wp-content/uploads/2015/05/logo%E5%89%AF%E6%9C%AC.png" group-title="蒙古(Монгол)",围场影视
 http://www.vctv.com.cn:9090/hls/zkghtv2.m3u8
-
 
 
 
