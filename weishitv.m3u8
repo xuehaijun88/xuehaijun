@@ -1,0 +1,363 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV-1综合
+http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+
+#EXTINF:-1 ,CCTV-2财经
+http://ivi.bupt.edu.cn/hls/cctv2.m3u8
+
+#EXTINF:-1 ,CCTV-3综艺
+http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+
+#EXTINF:-1 ,CCTV-4国际
+http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+
+#EXTINF:-1 ,CCTV-6高清
+http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+
+#EXTINF:-1 ,CCTV-7军事农业
+http://ivi.bupt.edu.cn/hls/cctv7.m3u8
+
+#EXTINF:-1 ,CCTV-8高清
+http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+
+#EXTINF:-1 ,CCTV-9纪录
+http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+
+#EXTINF:-1 ,CCTV-10科教
+http://ivi.bupt.edu.cn/hls/cctv10.m3u8
+
+#EXTINF:-1 ,CCTV-11戏曲
+http://ivi.bupt.edu.cn/hls/cctv11.m3u8
+
+#EXTINF:-1 ,CCTV-12社会与法
+http://ivi.bupt.edu.cn/hls/cctv12.m3u8
+
+#EXTINF:-1 ,CCTV-13新闻
+http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+
+#EXTINF:-1 ,CCTV-14少儿
+http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+
+#EXTINF:-1 ,CCTV-15音乐
+http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+
+#EXTINF:-1 ,CCTV-5+体育
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+
+#EXTINF:-1 ,湖南卫视高清
+http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
+
+#EXTINF:-1 ,浙江卫视高清
+http://ivi.bupt.edu.cn/hls/zjhd.m3u8
+
+#EXTINF:-1 ,江苏卫视高清
+http://ivi.bupt.edu.cn/hls/jshd.m3u8
+
+#EXTINF:-1 ,东方卫视高清
+http://ivi.bupt.edu.cn/hls/dfhd.m3u8
+
+#EXTINF:-1 ,安徽卫视高清
+http://ivi.bupt.edu.cn/hls/ahhd.m3u8
+
+#EXTINF:-1 ,安徽卫视
+http://ivi.bupt.edu.cn/hls/ahtv.m3u8
+
+#EXTINF:-1 ,黑龙江卫视高清
+http://ivi.bupt.edu.cn/hls/hljhd.m3u8
+
+#EXTINF:-1 ,辽宁卫视高清
+http://ivi.bupt.edu.cn/hls/lnhd.m3u8
+
+#EXTINF:-1 ,深圳卫视高清
+http://ivi.bupt.edu.cn/hls/szhd.m3u8
+
+#EXTINF:-1 ,广东卫视高清
+http://ivi.bupt.edu.cn/hls/gdhd.m3u8
+
+#EXTINF:-1 ,广东卫视
+http://ivi.bupt.edu.cn/hls/gdtv.m3u8
+
+#EXTINF:-1 ,天津卫视高清
+http://ivi.bupt.edu.cn/hls/tjhd.m3u8
+
+#EXTINF:-1 ,湖北卫视高清
+http://ivi.bupt.edu.cn/hls/hbhd.m3u8
+
+#EXTINF:-1 ,湖北卫视
+http://ivi.bupt.edu.cn/hls/hbtv.m3u8
+
+#EXTINF:-1 ,山东卫视高清
+http://ivi.bupt.edu.cn/hls/sdhd.m3u8
+
+#EXTINF:-1 ,山东卫视
+http://ivi.bupt.edu.cn/hls/sdtv.m3u8
+
+#EXTINF:-1 ,重庆卫视高清
+http://ivi.bupt.edu.cn/hls/cqhd.m3u8
+
+#EXTINF:-1 ,深圳卫视
+http://ivi.bupt.edu.cn/hls/sztv.m3u8
+
+#EXTINF:-1 ,河南卫视
+http://ivi.bupt.edu.cn/hls/hntv.m3u8
+
+#EXTINF:-1 ,陕西卫视
+http://ivi.bupt.edu.cn/hls/sxtv.m3u8
+
+#EXTINF:-1 ,吉林卫视
+http://ivi.bupt.edu.cn/hls/jltv.m3u8
+
+#EXTINF:-1 ,广西卫视
+http://ivi.bupt.edu.cn/hls/gxtv.m3u8
+
+#EXTINF:-1 ,河北卫视
+http://ivi.bupt.edu.cn/hls/hebtv.m3u8
+
+#EXTINF:-1 ,西藏卫视
+http://ivi.bupt.edu.cn/hls/xztv.m3u8
+
+#EXTINF:-1 ,内蒙古卫视
+http://ivi.bupt.edu.cn/hls/nmtv.m3u8
+
+#EXTINF:-1 ,青海卫视
+http://ivi.bupt.edu.cn/hls/qhtv.m3u8
+
+#EXTINF:-1 ,四川卫视
+http://ivi.bupt.edu.cn/hls/sctv.m3u8
+
+#EXTINF:-1 ,江苏卫视
+http://ivi.bupt.edu.cn/hls/jstv.m3u8
+
+#EXTINF:-1 ,天津卫视
+http://ivi.bupt.edu.cn/hls/tjtv.m3u8
+
+#EXTINF:-1 ,山西卫视
+http://ivi.bupt.edu.cn/hls/sxrtv.m3u8
+
+#EXTINF:-1 ,辽宁卫视
+http://ivi.bupt.edu.cn/hls/lntv.m3u8
+
+#EXTINF:-1 ,厦门卫视
+http://ivi.bupt.edu.cn/hls/xmtv.m3u8
+
+#EXTINF:-1 ,新疆卫视
+http://ivi.bupt.edu.cn/hls/xjtv.m3u8
+
+#EXTINF:-1 ,东方卫视
+http://ivi.bupt.edu.cn/hls/dftv.m3u8
+
+#EXTINF:-1 ,黑龙江卫视
+http://ivi.bupt.edu.cn/hls/hljtv.m3u8
+
+#EXTINF:-1 ,湖南卫视
+http://ivi.bupt.edu.cn/hls/hunantv.m3u8
+
+#EXTINF:-1 ,云南卫视
+http://ivi.bupt.edu.cn/hls/yntv.m3u8
+
+#EXTINF:-1 ,江西卫视
+http://ivi.bupt.edu.cn/hls/jxtv.m3u8
+
+#EXTINF:-1 ,福建东南卫视
+http://ivi.bupt.edu.cn/hls/dntv.m3u8
+
+#EXTINF:-1 ,浙江卫视
+http://ivi.bupt.edu.cn/hls/zjtv.m3u8
+
+#EXTINF:-1 ,贵州卫视
+http://ivi.bupt.edu.cn/hls/gztv.m3u8
+
+#EXTINF:-1 ,甘肃卫视
+http://ivi.bupt.edu.cn/hls/gstv.m3u8
+
+#EXTINF:-1 ,嘉佳卡通
+http://223.110.241.204:6610/gitv/live1/G_JIAJIA/G_JIAJIA/
+
+#EXTINF:-1 ,优漫卡通
+http://223.110.241.204:6610/gitv/live1/G_YOUMAN/G_YOUMAN/
+
+#EXTINF:-1 ,卡酷少儿
+http://223.110.241.204:6610/gitv/live1/G_KAKU/G_KAKU/
+
+#EXTINF:-1 ,金鹰卡通
+http://223.110.241.204:6610/gitv/live1/G_JINYING/G_JINYING/
+
+#EXTINF:-1 ,炫动卡通
+http://223.110.241.204:6610/gitv/live1/G_XUANDONG/G_XUANDONG/
+
+#EXTINF:-1 ,第一财经
+http://w1.livecdn.yicai.com/hls/live/CBN_sd/live.m3u8
+
+#EXTINF:-1 ,点掌财经
+http://cclive2.aniu.tv/live/anzb.m3u8
+
+#EXTINF:-1 ,吉林大学
+http://tv.jlu.edu.cn/stream/zhibo/sd/live.m3u8
+
+#EXTINF:-1 ,凤凰资讯HD
+http://117.169.120.138:8080/live/fhzixun/.m3u8
+
+#EXTINF:-1 ,TVB财经资讯
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+
+#EXTINF:-1 ,耀才财经台
+http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+
+#EXTINF:-1 ,香港卫视
+http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8
+
+#EXTINF:-1 ,星空卫视
+http://218.202.220.2:5000/nn_live.ts?id=STARTV
+
+#EXTINF:-1 ,奇妙电视
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+
+#EXTINF:-1 ,龙上频道
+http://live.cjyun.org/video/s10008-ls2018s/index.m3u8
+
+#EXTINF:-1 ,澳亚卫视
+http://stream.mastvnet.com/MASTV/sd/live.m3u8
+
+#EXTINF:-1 ,GOOD好消息1台
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+
+#EXTINF:-1 ,GOOD好消息2台
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+
+#EXTINF:-1 ,RHK31
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+
+#EXTINF:-1 ,彭博（金融）Bloomberg TV Europe
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+
+#EXTINF:-1 ,美国新闻CBS News 1
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 ,美国新闻CBS News 2
+https://www.cbsnews.com/common/video/dai_prod.m3u8
+
+#EXTINF:-1 ,美国新闻ABC News
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+
+#EXTINF:-1 ,半岛电视台Ai Jazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+
+#EXTINF:-1 ,土耳其TRT WORLD
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+
+#EXTINF:-1 ,纽约音乐选择台Music Choice Play
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+
+#EXTINF:-1 ,布鲁内尔音乐台Radio Bruno
+http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8
+
+#EXTINF:-1 ,意大利音乐台Radio Italia TV
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+
+#EXTINF:-1 ,乌克兰VOTV
+http://hls.cdn.ua/vo.org.ua_live/_definst_/online-ru-hotbird-high/chunklist.m3u8
+
+#EXTINF:-1 ,法国France
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
+
+#EXTINF:-1 ,Newstv爱情喜剧
+http://183.207.249.12/PLTV/3/224/3221225525/index.m3u8
+
+#EXTINF:-1 ,Newstv搏击
+http://223.110.245.134/PLTV/3/224/3221226656/index.m3u8
+
+#EXTINF:-1 ,Newstv潮妈辣婆
+http://223.110.245.170/PLTV/3/224/3221226983/index.m3u8
+
+#EXTINF:-1 ,Newstv动画王国
+http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
+
+#EXTINF:-1 ,Newstv古装剧场
+http://183.207.249.14/PLTV/3/224/3221225527/index.m3u8
+
+#EXTINF:-1 ,Newstv海外剧场
+http://183.207.249.16/PLTV/3/224/3221225547/index.m3u8
+
+#EXTINF:-1 ,Newstv家庭剧场
+http://183.207.249.14/PLTV/3/224/3221225549/index.m3u8
+
+#EXTINF:-1 ,Newstv健康有约
+http://183.207.249.14/PLTV/3/224/3221225545/index.m3u8
+
+#EXTINF:-1 ,Newstv金牌综艺
+http://183.207.249.16/PLTV/3/224/3221225559/index.m3u8
+
+#EXTINF:-1 ,Newstv惊悚悬疑
+http://183.207.249.7/PLTV/3/224/3221225561/index.m3u8
+
+#EXTINF:-1 ,Newstv精品大剧
+http://183.207.249.14/PLTV/3/224/3221225569/index.m3u8
+
+#EXTINF:-1 ,Newstv精品电影
+http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
+
+#EXTINF:-1 ,Newstv精品记录
+http://183.207.249.14/PLTV/3/224/3221225557/index.m3u8
+
+#EXTINF:-1 ,Newstv精品体育
+http://183.207.249.16/PLTV/3/224/3221225543/index.m3u8
+
+#EXTINF:-1 ,Newstv军旅剧场
+http://183.207.249.15/PLTV/3/224/3221225531/index.m3u8
+
+#EXTINF:-1 ,Newstv军事评论
+http://183.207.249.14/PLTV/3/224/3221225533/index.m3u8
+
+#EXTINF:-1 ,Newstv明星大片
+http://183.207.249.14/PLTV/3/224/3221225535/index.m3u8
+
+#EXTINF:-1 ,Newstv农业致富
+http://183.207.249.15/PLTV/3/224/3221225537/index.m3u8
+
+#EXTINF:-1 ,Newstv完美游戏
+http://183.207.249.16/PLTV/3/224/3221225539/index.m3u8
+
+#EXTINF:-1 ,Newstv中国功夫
+http://223.110.245.135/PLTV/3/224/3221226935/index.m3u8
+
+#EXTINF:-1 ,赵本山小品
+http://js.hls.huya.com/huyalive/29106097-2689443426-11551071559112196096-2789253866-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 ,周星驰
+http://tx.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
+
+#EXTINF:-1 ,北京卫视高清
+http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
+
+#EXTINF:-1 ,北京卫视
+http://ivi.bupt.edu.cn/hls/btv1.m3u8
+
+#EXTINF:-1 ,北京文艺高清
+http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
+
+#EXTINF:-1 ,北京文艺
+http://ivi.bupt.edu.cn/hls/btv2.m3u8
+
+#EXTINF:-1 ,北京纪实高清
+http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
+
+#EXTINF:-1 ,北京科教
+http://ivi.bupt.edu.cn/hls/btv3.m3u8
+
+#EXTINF:-1 ,北京影视
+http://ivi.bupt.edu.cn/hls/btv4.m3u8
+
+#EXTINF:-1 ,北京财经
+http://ivi.bupt.edu.cn/hls/btv5.m3u8
+
+#EXTINF:-1 ,北京生活
+http://ivi.bupt.edu.cn/hls/btv7.m3u8
+
+#EXTINF:-1 ,北京青年
+http://ivi.bupt.edu.cn/hls/btv8.m3u8
+
+#EXTINF:-1 ,北京新闻
+http://ivi.bupt.edu.cn/hls/btv9.m3u8
+
+#EXTINF:-1 ,北京卡酷少儿
+http://ivi.bupt.edu.cn/hls/btv10.m3u8
