@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-zqzx.png",group-title="央视",CCTV证券资讯
 http://v.wangjiuling.com/tv?sv=GzXnCqLiNUVjAgQQ
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/lanqiu.png",group-title="教育",篮球
