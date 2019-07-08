@@ -374,8 +374,6 @@ http://v.wangjiuling.com/tv?sv=Jl3UpQfw2IvRnNbb
 http://v.wangjiuling.com/tv?sv=Nl2TD9Uw9ILbDQrr
 #EXTINF:0 tvg-logo="",group-title="地方",河北农民
 http://v.wangjiuling.com/tv?sv=lJBh0Bu2AHeJzM22
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hebeiweishi.png",group-title="卫视",河北卫视HD
-http://v.wangjiuling.com/tv?sv=QlotAoFEPcJ4A3XX
 #EXTINF:0 tvg-logo="",group-title="地方",河北少儿
 http://v.wangjiuling.com/tv?sv=ElxfWRFnAc4MNW22
 #EXTINF:0 tvg-logo="",group-title="地方",河北影视
@@ -565,7 +563,7 @@ http://v.wangjiuling.com/tv?sv=nRr2BW0UO7i34Ixo64YY
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/guizhouweishi.png",group-title="卫视",贵州卫视HD
 http://v.wangjiuling.com/tv?sv=31qNd2Rhonuz1hwDAQ33
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hebeiweishi.png",group-title="卫视",河北卫视HD
-http://v.wangjiuling.com/tv?sv=YE9bayyCqMiOAfl67pqq
+http://v.wangjiuling.com/tv?sv=QlotAoFEPcJ4A3XX
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/qinghaiweishi.png",group-title="卫视",青海卫视HD
 http://v.wangjiuling.com/tv?sv=W4MvabeuExuQDIweN9ll
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/gansuweishi.png",group-title="卫视",甘肃卫视HD
