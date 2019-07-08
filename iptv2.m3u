@@ -274,8 +274,6 @@ http://v.wangjiuling.com/tv?sv=DgAcPycpOIEBQDWW
 http://v.wangjiuling.com/tv?sv=AVVtWOF6yc0Odoww
 #EXTINF:0 tvg-logo="",group-title="地方",南川区电视台经济旅游
 http://v.wangjiuling.com/tv?sv=0gNheNT0AhoQAObb
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/nanfangweishi.png",group-title="卫视",南方卫视
-http://v.wangjiuling.com/tv?sv=wLWTxlHP3CyrE9VV
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/xiamenyitao.png",group-title="地方",厦门1套
 http://v.wangjiuling.com/tv?sv=nMBSO7i34Ixo64YY
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/xiamenertao.png",group-title="地方",厦门2套
@@ -324,8 +322,6 @@ http://v.wangjiuling.com/tv?sv=YMBHqMiOAfl67pqq
 http://v.wangjiuling.com/tv?sv=WxytExuQDIweN9ll
 #EXTINF:0 tvg-logo="",group-title="地方",延安综合
 http://v.wangjiuling.com/tv?sv=BN4CbqHg7tBe8pnn
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/yanbianweishi.png",group-title="卫视",延边卫视
-http://v.wangjiuling.com/tv?sv=LzeSLaugPtv3gjBB
 #EXTINF:0 tvg-logo="",group-title="地方",开州区电视台生活
 http://v.wangjiuling.com/tv?sv=zJaUqLi7AFVjAgQQ
 #EXTINF:0 tvg-logo="",group-title="地方",开州区电视台综合
@@ -388,7 +384,7 @@ http://v.wangjiuling.com/tv?sv=Jl3UpQfw2IvRnNbb
 http://v.wangjiuling.com/tv?sv=Nl2TD9Uw9ILbDQrr
 #EXTINF:0 tvg-logo="",group-title="地方",河北农民
 http://v.wangjiuling.com/tv?sv=lJBh0Bu2AHeJzM22
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hebeiweishi.png",group-title="卫视",河北卫视
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hebeiweishi.png",group-title="卫视",河北卫视HD
 http://v.wangjiuling.com/tv?sv=QlotAoFEPcJ4A3XX
 #EXTINF:0 tvg-logo="",group-title="地方",河北少儿
 http://v.wangjiuling.com/tv?sv=ElxfWRFnAc4MNW22
@@ -558,8 +554,6 @@ http://v.wangjiuling.com/tv?sv=nRr2BW3HO7i34Ixo64YY
 http://v.wangjiuling.com/tv?sv=31qNd2AUonuz1hwDAQ33
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/sichuanweishi.png",group-title="卫视",四川卫视HD
 http://v.wangjiuling.com/tv?sv=YE9bayMIqMiOAfl67pqq
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/lvyouweishi.png",group-title="卫视",旅游卫视HD
-http://v.wangjiuling.com/tv?sv=W4MvablTExuQDIweN9ll
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jilinweishi.png",group-title="卫视",吉林卫视HD
 http://v.wangjiuling.com/tv?sv=BbqDXMXcbqHg7tBe8pnn
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jiangxiweishi.png",group-title="卫视",江西卫视HD
@@ -587,7 +581,7 @@ http://v.wangjiuling.com/tv?sv=W4MvabeuExuQDIweN9ll
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/gansuweishi.png",group-title="卫视",甘肃卫视HD
 http://v.wangjiuling.com/tv?sv=BbqDXMlIbqHg7tBe8pnn
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/henanweishi.png",group-title="卫视",河南卫视HD
-http://v.wangjiuling.com/tv?sv=LAWrQbvfLaugPtv3gjBB
+http://39.135.16.142:6060/PLTV/88888888/224/3221225709/1/index.m3u8?fmt=ts2hls
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/goodtv.png",group-title="港台",好消息二台
 http://v.wangjiuling.com/tv?sv=zQN1o6pcqLi7AFVjAgQQ
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/minshi.png",group-title="港台",民視 HD
