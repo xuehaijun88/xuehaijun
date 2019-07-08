@@ -104,10 +104,6 @@ http://v.wangjiuling.com/tv?sv=QBeuAoFEPcJ4A3XX
 http://v.wangjiuling.com/tv?sv=EbBUWRFnAc4MNW22
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtiankatong.png",group-title="港台",靖天卡通台HD
 http://v.wangjiuling.com/tv?sv=yvjSABFJ4H8Wr9LL
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/henanweishi.png",group-title="卫视",河南卫视HD
-http://v.wangjiuling.com/tv?sv=mQeCx7Hy7CqJ4BYY
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/lvyouweishi.png",group-title="卫视",旅游卫视HD
-http://v.wangjiuling.com/tv?sv=AKyTWOF6yc0Odoww
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtianriben.png",group-title="港台",靖天日本
 http://v.wangjiuling.com/tv?sv=zvPUqLi7AFVjAgQQ
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtianyinghua.png",group-title="港台",靖天映畫
@@ -204,12 +200,6 @@ http://v.wangjiuling.com/tv?sv=xVJirVUowHdgEPXX
 http://v.wangjiuling.com/tv?sv=rL9CQmsA4cvEV2KK
 #EXTINF:0 tvg-logo="",group-title="地方",廣東新聞
 http://v.wangjiuling.com/tv?sv=jAEhb7HPyCnJgell
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/xiamenyitao.png",group-title="地方",厦门一套
-http://v.wangjiuling.com/tv?sv=qB3UvlClBURXlDyy
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/xiamenertao.png",group-title="地方",厦门二套
-http://v.wangjiuling.com/tv?sv=XRwsPNcRncJbpOaa
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/xiamensantao.png",group-title="地方",厦门三套
-http://v.wangjiuling.com/tv?sv=1ADTg0iVbI7exj66
 #EXTINF:0 tvg-logo="",group-title="地方",四川文化旅游HD
 http://v.wangjiuling.com/tv?sv=dORCyXFWzsdjPKLL
 #EXTINF:0 tvg-logo="",group-title="地方",四川经视HD
