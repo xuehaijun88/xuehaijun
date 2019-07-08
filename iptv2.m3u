@@ -493,7 +493,7 @@ http://v.wangjiuling.com/tv?sv=P341aJwcaguW6s2zxJMM
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-3.png",group-title="央视",CCTV3HD
 http://v.wangjiuling.com/tv?sv=eBY3aPPtR0hNrHR4WN00
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-4.png",group-title="央视",CCTV4HD
-https://cctvcnch5c.v.wscdns.com/live/cctv4_2/index.m3u8
+http://223.110.242.130:6610/gitv/live1/G_CCTV-4-HQ/1.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-5.png",group-title="央视",CCTV5HD
 http://v.wangjiuling.com/tv?sv=6obEdJgHm2S30ID9bo22
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-6.png",group-title="央视",CCTV6HD
