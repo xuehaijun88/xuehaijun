@@ -150,6 +150,8 @@ http://v.wangjiuling.com/tv?sv=axoUOPiMwHpJlg67
 http://v.wangjiuling.com/tv?sv=JAmspQfXeivRwn1O
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="翻墙区（港台）",翡翠台HD
 http://v.wangjiuling.com/tv?sv=9eMuvJCywCK9OEzz
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbj2.png",group-title="翻墙区（港台）",TVB J2台
+http://v.wangjiuling.com/tv?sv=qVYhvlClBURXlDyy
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbhudongxinwena.png",group-title="翻墙区（港台）",TVB无线新闻台
 http://v.wangjiuling.com/tv?sv=d0DSyXFWzsdjmPyB
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbPearl.png",group-title="翻墙区（港台）",TVB明珠台
@@ -267,3 +269,21 @@ http://v.wangjiuling.com/tv?sv=2BdUMwuqdU0YJPqo
 http://v.wangjiuling.com/tv?sv=V8YiVNS79FDPMerJ
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/mingshixinwen.png",group-title="翻墙区（港台）",民视新闻
 http://v.wangjiuling.com/tv?sv=P8qcaguW6s2zNxlQ
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtianguoji.png",group-title="翻墙区（港台）",靖天國際
+http://v.wangjiuling.com/tv?sv=aqYSOPiB4cpJY1NN
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtianzixun.png",group-title="翻墙区（港台）",靖天資訊台HD
+http://v.wangjiuling.com/tv?sv=J8QcpQfw2IvRnNbb
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingyangxiju.png",group-title="翻墙区（港台）",靖洋戲劇HD
+http://v.wangjiuling.com/tv?sv=NKqiD9Uw9ILbDQrr
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtianyule.png",group-title="翻墙区（港台）",靖天育樂台HD
+http://v.wangjiuling.com/tv?sv=lN0C0Bu2AHeJzM22
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtianguoji.png",group-title="翻墙区（港台）",靖天國際台HD
+http://v.wangjiuling.com/tv?sv=QBeuAoFEPcJ4A3XX
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingyangkatongtai.png",group-title="翻墙区（港台）",靖洋卡通台HD
+http://v.wangjiuling.com/tv?sv=EbBUWRFnAc4MNW22
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtiankatong.png",group-title="翻墙区（港台）",靖天卡通台HD
+http://v.wangjiuling.com/tv?sv=yvjSABFJ4H8Wr9LL
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtianriben.png",group-title="翻墙区（港台）",靖天日本
+http://v.wangjiuling.com/tv?sv=zvPUqLi7AFVjAgQQ
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtianyinghua.png",group-title="翻墙区（港台）",靖天映畫
+http://v.wangjiuling.com/tv?sv=4eEcx7HbPCrjKORR
