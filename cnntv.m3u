@@ -32,22 +32,6 @@ http://v.wangjiuling.com/tv?sv=lqKDY3PH0Bu2AHeJ8xEj
 http://v.wangjiuling.com/tv?sv=QYDdabycAoFEPcJ4YynN
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/cctv4k.png",group-title="央视",CCTV-4K
 http://v.wangjiuling.com/tv?sv=8bg0lmJtXJiboCWQ7J9m
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-sjdl.png",group-title="央视",CCTV世界地理
-http://v.wangjiuling.com/tv?sv=6Kpim2SAyFD9qjJB
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-lgs.png",group-title="央视",CCTV老故事
-http://v.wangjiuling.com/tv?sv=v7aUv9C1gSW0m8Ow
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-nxss.png",group-title="央视",CCTV女性时尚
-http://v.wangjiuling.com/tv?sv=b7pTNbI4QtNQqzOg
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-cxzl.png",group-title="央视",CCTV发现之旅
-http://v.wangjiuling.com/tv?sv=NeJHD9UxDtLb1a6p
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/xinkedongman.png",group-title="动漫",CCTV新科动漫
-http://v.wangjiuling.com/tv?sv=AWaHWOFDBC0O2vJa
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-wsjk.png",group-title="央视",CCTV卫生健康
-http://v.wangjiuling.com/tv?sv=Pr1TaguJvI2zLWpb
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-sjdl.png",group-title="央视",CCTV世界地理
-http://v.wangjiuling.com/tv?sv=5vX6tv9CaFW0m8Ow
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-zqzx.png",group-title="央视",CCTV证券资讯
-http://v.wangjiuling.com/tv?sv=Zx9jHrVUaUdg73ma
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/beijingweishia.png",group-title="卫视",北京卫视HD
 http://v.wangjiuling.com/tv?sv=ARq4X9lHWOF6yc0O2vJa
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongfangweishi.png",group-title="卫视",东方卫视HD
@@ -154,10 +138,6 @@ http://v.wangjiuling.com/tv?sv=eBY3aPMCR0hNrHR4DwV6
 http://v.wangjiuling.com/tv?sv=gaBWAgJcEyu3EI6JnDOa
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/diyicaijinghd.png",group-title="地方",上海第一财经
 http://v.wangjiuling.com/tv?sv=zDrFqLi7AFVjXrxE
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/chemipindao.png",group-title="体育",车迷频道
-http://v.wangjiuling.com/tv?sv=kM9AC8MIBflboyqN
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fazhitiandi.png",group-title="教育",法制天地
-http://v.wangjiuling.com/tv?sv=k7b7uqJiJSBy7Ngd
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/chtv.png",group-title="新闻",CHTV
 http://v.wangjiuling.com/tv?sv=axnCOPiMMIpJlg67
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/youyoubaobei.png",group-title="动漫",优优宝贝
