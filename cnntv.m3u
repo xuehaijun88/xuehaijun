@@ -112,7 +112,7 @@ http://v.wangjiuling.com/tv?sv=gaBWAlvcEyu3EI6JnDOa
 http://v.wangjiuling.com/tv?sv=6obEdeaCm2S30ID9qjJB
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/henanweishi.png",group-title="卫视",河南卫视HD
 http://v.wangjiuling.com/tv?sv=oMrVLmpH2lCAjcgnmNze
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangzhongwen.png",group-title="港台",凤凰卫视 HD
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangzhongwen.png",group-title="卫视",凤凰卫视 HD
 http://v.wangjiuling.com/tv?sv=m9MKWnasx7Hy7CqJaye8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dushijuchang.png",group-title="影视",都市剧场
 http://v.wangjiuling.com/tv?sv=6obEdJdSm2S30ID9qjJB
@@ -210,6 +210,8 @@ http://v.wangjiuling.com/tv?sv=7bqFqJiM4uBy7Ngd
 http://v.wangjiuling.com/tv?sv=axoUOPiMwHpJlg67
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="翻墙区（港台）",TVB翡翠台
 http://v.wangjiuling.com/tv?sv=JAmspQfXeivRwn1O
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="翻墙区（港台）",翡翠台HD
+http://v.wangjiuling.com/tv?sv=9eMuvJCywCK9OEzz
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbhudongxinwena.png",group-title="翻墙区（港台）",TVB无线新闻台
 http://v.wangjiuling.com/tv?sv=d0DSyXFWzsdjmPyB
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbPearl.png",group-title="翻墙区（港台）",TVB明珠台
