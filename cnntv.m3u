@@ -182,7 +182,83 @@ http://v.wangjiuling.com/tv?sv=PKlcaguW6s2zN6o6
 http://v.wangjiuling.com/tv?sv=eRaHR0hNrHR4oa9a
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",精彩点播25
 http://v.wangjiuling.com/tv?sv=gRjtEyu3EI6JVLwL
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",精彩点播26
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",本地-纪录片1
+http://home.railgun.moe:58088/jilu/live1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",本地-纪录片2
+http://home.railgun.moe:58088/jilu/live2.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",本地-纪录片3
+http://home.railgun.moe:58088/jilu/live3.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",本地-日剧1
+http://home.railgun.moe:58088/riju/live1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",本地-日剧2
+http://home.railgun.moe:58088/riju/live2.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",本地-日剧3
+http://home.railgun.moe:58088/riju/live3.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",本地-美剧1
+http://home.railgun.moe:58088/meiju/live1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",本地-美剧2
+http://home.railgun.moe:58088/meiju/live2.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",本地-美剧3
+http://home.railgun.moe:58088/meiju/live3.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",本地-权力的游戏
+http://home.railgun.moe:58088/got/live1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",本地-银魂
+http://home.railgun.moe:58088/yinhun/live1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",漫威轮播
+http://js.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",顶级科幻动作大片
+http://tx.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",好莱坞动作大片
+http://js.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",战争片轮播
+http://tx.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1.m3u8
+##EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",迪士尼轮播
+http://tx.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274560-10057-A-1525417691-1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",周星驰电影
+http://js.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",华数古装
+http://hls-ott-zhibo.wasu.tv/live/202/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",华数剧情
+http://hls-ott-zhibo.wasu.tv/live/184/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",华数剧场
+http://hls-ott-zhibo.wasu.tv/live/231/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",华数偶像HD
+http://hls-ott-zhibo.wasu.tv/live/258/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",华数爱情FHD
+http://hls-ott-zhibo.wasu.tv/live/261/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",华数古装剧
+http://hls-ott-zhibo.wasu.tv/live/259/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",MOVIES 1
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",MOVIES 2
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",MOVIES 3
+http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",MOVIES 4
+http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",MOVIES 5
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",华数游戏
+http://hls-ott-zhibo.wasu.tv/live/142/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",看看新闻HD
+http://hls-ott-zhibo.wasu.tv/live/200/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",华数美食HD
+http://hls-ott-zhibo.wasu.tv/live/256/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",国外电影HD
+http://hls-ott-zhibo.wasu.tv/live/264/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",华数科幻HD
+http://hls-ott-zhibo.wasu.tv/live/263/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",动作电影HD
+http://hls-ott-zhibo.wasu.tv/live/268/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",国外电视剧HD
+http://hls-ott-zhibo.wasu.tv/live/269/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",开心直播HD
+http://hls-ott-zhibo.wasu.tv/live/272/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",VSPN全电竞HD
+http://hls-ott-zhibo.wasu.tv/live/273/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",国外动作HD
+http://hls-ott-zhibo.wasu.tv/live/305/index.m3u8
+
 #EXTINF:0 tvg-logo="",group-title="广东",廣東衛視
 http://v.wangjiuling.com/tv?sv=xV4IrVUowHdgNpwp
 #EXTINF:0 tvg-logo="",group-title="广东",廣東珠江
@@ -217,8 +293,6 @@ http://v.wangjiuling.com/tv?sv=mJyTx7Hy7CqJ1979
 http://v.wangjiuling.com/tv?sv=AEehWOF6yc0O1DQD
 #EXTINF:0 tvg-logo="",group-title="河北",河北都市
 http://v.wangjiuling.com/tv?sv=0JgteNT0AhoQmv2v
-
-
 #EXTINF:0 tvg-logo="",group-title="CDTV",CDTV-1 新闻综合
 http://v.wangjiuling.com/tv?sv=dW3napbUyXFWzsdjmN0N
 #EXTINF:0 tvg-logo="",group-title="CDTV",CDTV-2 经济资讯
