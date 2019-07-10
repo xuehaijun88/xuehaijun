@@ -834,3 +834,72 @@ http://223.110.241.139:6610/gitv/live1/G_GUOXUE/G_GUOXUE/
 http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jishipindao.png" group-title="IPTV",全纪实
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225911/3.m3u8
+
+
+
+
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/goodtv.png",group-title="GOOD好消息台",GOOD综合台
+http://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/goodtv.png",group-title="GOOD好消息台",GOOD生活台
+http://live.streamingfast.net/osmflivech12.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/goodtv.png",group-title="GOOD好消息台",GOOD真情部落格
+http://live.streamingfast.net/osmflivech3.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/goodtv.png",group-title="GOOD好消息台",GOOD共享观点
+http://live.streamingfast.net/osmflivech5.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/goodtv.png",group-title="GOOD好消息台",GOOD爱+好医生
+http://live.streamingfast.net/osmflivech9.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/goodtv.png",group-title="GOOD好消息台",GOOD美食旅游台
+http://live.streamingfast.net/osmflivech14.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/goodtv.png",group-title="GOOD好消息台",GOOD健康新煮流
+http://live.streamingfast.net/osmflivech13.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/goodtv.png",group-title="GOOD好消息台",GOOD卡通
+http://live.streamingfast.net/osmflivech40.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/goodtv.png",group-title="GOOD好消息台",GOOD烤箱读书会
+http://live.streamingfast.net/osmflivech44.m3u8
+
+
+
+#EXTINF:0 tvg-logo="www.wangjiuling.com/img/FoxMoviespremiumhd.png",group-title="测试频道",FOX MOVIES
+http://60.250.69.26:8080/live/startwest89.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",香港开电视
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbwxcj.png",group-title="测试频道",无线财经咨询台
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",全美電視
+https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",环球电视台HD
+http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
+
+
+#EXTINF:0 tvg-logo="",group-title="日韩",Japan24news
+https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+#EXTINF:0 tvg-logo="",group-title="日韩",日-ファミリー劇場
+http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="",group-title="日韩",日-衛星劇場
+http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="",group-title="日韩",日本Japanet Channel DX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+#EXTINF:0 tvg-logo="",group-title="日韩",家庭剧场
+http://192.240.127.34:1935/live/cs11.stream/media_1254.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/nhkpremiu.png",group-title="日韩",历史频道HD
+http://192.240.127.34:1935/live/cs14.stream/media_1254.m3u8
+#EXTINF:0 tvg-logo="",group-title="日韩",卫星剧场HD
+http://192.240.127.34:1935/live/cs18.stream/media_1254.m3u8
+#EXTINF:0 tvg-logo="",group-title="日韩",日本映画HD
+http://192.240.127.34:1935/live/cs19.stream/media_1254.m3u8
+#EXTINF:0 tvg-logo="",group-title="日韩",韩国TV Chosun
+http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="",group-title="日韩",韩国CBS
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/kbs1.png",group-title="日韩",韩国KBS1
+http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1960240276.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/ebs1.png",group-title="日韩",EBS1
+http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:0 tvg-logo="",group-title="日韩",韩国EBSeHD
+http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:0 tvg-logo="",group-title="日韩",韩国Arirang (Opt-1)
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="",group-title="日韩",韩国KTV
+http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
+#EXTINF:0 tvg-logo="",group-title="日韩",韩国Chosun
+http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
