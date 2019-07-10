@@ -521,3 +521,51 @@ http://v.wangjiuling.com/tv?sv=P341yVjhaguW6s2zjVPY
 http://v.wangjiuling.com/tv?sv=LAWrQBMHLaugPtv3zqNX
 #EXTINF:0 tvg-logo="",group-title="测试频道",国家地理野生频道
 http://v.wangjiuling.com/tv?sv=zQN1oV2sqLi7AFVjpnya
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Babyfirst-logo.png/345px-Babyfirst-logo.png" group-title="翻墙区（港台）", BabyFirst臺灣
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.filmcommission.taipei/Upload/Taipeff/CompanyData/a71e651bceb9487.jpg" group-title="翻墙区（港台）", CNEX 紀實頻道
+http://220.158.149.14:9999/live/TV00000000000000000083@HHZT;LIVE
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/CartoonNetwork.mx.png" group-title="翻墙区（港台）", 卡通頻道
+http://113.196.177.81:8887/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/ce1bb1935f94fbefd44deecaf71726c2.jpg" group-title="翻墙区（港台）", 迪斯尼动画
+http://113.196.177.81:8894/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/571_300.png" group-title="翻墙区（港台）", 探索频道
+http://122.146.68.116:4046/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20180731084338_97500.png" group-title="翻墙区（港台）", 靖天歡樂
+http://61.58.60.230:9319/live/201.m3u8
+#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20170503040707_25993.jpg" group-title="翻墙区（港台）",  靖天資訊
+http://61.58.60.230:9319/live/202.m3u8
+#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20170503040733_66835.jpg" group-title="翻墙区（港台）", 靖天育樂
+http://61.58.60.230:9319/live/204.m3u8
+#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20170503040756_51110.jpg" group-title="翻墙区（港台）", 靖天戲劇
+http://61.58.60.230:9319/live/203.m3u8
+#EXTINF:-1 tvg-logo="https://twg.skyking.com.tw/skyking/Icon/087.png" group-title="翻墙区（港台）", 靖天國際
+http://61.58.60.230:9319/live/205.m3u8
+#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20170503040645_77060.jpg" group-title="翻墙区（港台）", 靖洋卡通
+http://61.58.60.230:9319/live/206.m3u8
+#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20170503040653_18506.jpg" group-title="翻墙区（港台）", 靖天卡通
+http://61.58.60.230:9319/live/207.m3u8
+#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20180514033705_42980.jpg" group-title="翻墙区（港台）", 靖天日本
+http://61.58.60.230:9319/live/243.m3u8
+#EXTINF:-1 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20180514033726_80065.jpg" group-title="翻墙区（港台）", 靖天電影
+http://61.58.60.230:9319/live/244.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FX.us.png" group-title="翻墙区（港台）", FX 中文電影臺
+http://113.196.177.81:8885/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="翻墙区（港台）", 國家地理
+http://113.196.177.81:8890/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="http://www.cns.net.tw/web/upload/20160908173455yhvHFdR.jpg" group-title="翻墙区（港台）", 好萊塢電影
+http://125.227.210.37:8909/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/HBO.us.png" group-title="翻墙区（港台）", HBO中文電影
+http://218.202.220.2:5000/nn_live.m3u8?id=HBO
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/HBO.us.png" group-title="翻墙区（港台）", HBO中文電影 HD
+http://125.227.210.37:8895/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="http://wxtv.asia/web/images/all/logoSm.jpg" group-title="翻墙区（港台）",  唯心頻道
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/571_300.png" group-title="翻墙区（港台）", 探索頻道
+http://122.146.68.116:4046/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="http://ali-oss.file.icantv.cn/uploads/tvimg/wlrb.jpg" group-title="翻墙区（港台）", 緯來日本
+http://125.227.210.37:8884/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="http://sport.videoland.com.tw/images/spt_logo-2.png" group-title="翻墙区（港台）", 緯來體育
+http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
