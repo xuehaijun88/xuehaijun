@@ -680,6 +680,7 @@ http://223.110.241.139:6610/gitv/live1/G_CCTV-15/G_CCTV-15/
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-13.png",group-title="CCTV央视",CCTVNEWS
 http://223.110.241.139:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-cxzl.png",group-title="CCTV央视",CCTV发现之旅
+http://223.110.241.139:6610/gitv/live1/G_FAXIANZL/G_FAXIANZL/
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-lgs.png",group-title="CCTV央视",CCTV老故事
 http://223.110.241.139:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-nxss.png",group-title="CCTV央视",CCTV女性时尚
@@ -748,7 +749,7 @@ http://112.50.243.8/PLTV/88888888/224/3221225855/1.m3u8
 http://39.134.65.162/PLTV/88888888/224/3221225577/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/cetv1.png",group-title="IPTV",CETV1
 http://112.50.243.8/PLTV/88888888/224/3221226954/1.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/wuxingtiyu.png",group-title="IPTV",五星新闻综合
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/shanghaixinwen.png",group-title="IPTV",上海新闻综合
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225973/1.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/NewTV-dzdy.png",group-title="IPTV",NewTV爱情喜剧
 http://183.207.249.12/PLTV/3/224/3221225525/index.m3u8
@@ -786,28 +787,25 @@ http://183.207.249.14/PLTV/3/224/3221225569/index.m3u8
 http://183.207.249.15/PLTV/3/224/3221225531/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/NewTV-dzdy.png",group-title="IPTV",Newtv超级电视剧
 http://112.50.243.7/PLTV/88888888/224/3221225806/1.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/beijingkaku.png
-",group-title="IPTV",卡酷少儿
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/beijingkaku.png",group-title="IPTV",卡酷少儿
 http://223.110.241.139:6610/gitv/live1/G_KAKU/G_KAKU/
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingyingkatong.png
-",group-title="IPTV", 金鹰卡通
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingyingkatong.png",group-title="IPTV", 金鹰卡通
 http://223.110.241.139:6610/gitv/live1/G_JINYING/G_JINYING/
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongmanxiuchang.png",group-title="IPTV",动漫秀场
 http://112.50.243.8/PLTV/88888888/224/3221226141/1.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Jinbaotiyu.png",group-title="IPTV",劲爆IPTV
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Jinbaotiyu.png",group-title="IPTV",劲爆体育
 http://112.50.243.8/PLTV/88888888/224/3221226139/1.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianzitiyu.png",group-title="IPTV",电竞世界
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/lanqiu.png",group-title="IPTV",篮球
 http://223.110.241.139:6610/gitv/live1/G_LANQIU/G_LANQIU/
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-gef.png
-",group-title="CCTV央视",CCTV高尔夫
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-gef.png",group-title="CCTV央视",CCTV高尔夫
 http://223.110.241.139:6610/gitv/live1/G_GAOERFU/G_GAOERFU/
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/youxifengyun.png",group-title="IPTV",游戏风云
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225897/1.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jisuqiche.png",group-title="IPTV",极速汽车
 http://112.50.243.8/PLTV/88888888/224/3221226140/1.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/wuxingtiyu.png",group-title="IPTV",五星IPTV
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/wuxingtiyu.png",group-title="IPTV",五星体育
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225964/1.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/diyicaijinghd.png",group-title="IPTV",上海第一财经
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
