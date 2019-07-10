@@ -696,6 +696,7 @@ http://112.50.243.8/PLTV/88888888/224/3221225847/1.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhejiangweishi.png",group-title="卫视",浙江卫视HD
 http://223.110.243.173/PLTV/3/224/3221227215/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongfangweishi.png",group-title="卫视",东方卫视HD
+http://112.50.243.8/PLTV/88888888/224/3221225828/1.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/beijingweishia.png",group-title="卫视",北京卫视HD
 http://112.50.243.8/PLTV/88888888/224/3221225826/1.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/guangdongweishi.png",group-title="卫视",广东卫视HD
@@ -831,3 +832,5 @@ http://223.110.241.139:6610/gitv/live1/G_ZHENGJUANZX/G_ZHENGJUANZX/
 http://223.110.241.139:6610/gitv/live1/G_GUOXUE/G_GUOXUE/
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tansuo.png",group-title="IPTV",求索记录
 http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jishipindao.png" group-title="IPTV",全纪实
+http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225911/3.m3u8
