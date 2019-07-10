@@ -792,7 +792,7 @@ http://223.110.241.139:6610/gitv/live1/G_KAKU/G_KAKU/
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingyingkatong.png
 ",group-title="IPTV", 金鹰卡通
 http://223.110.241.139:6610/gitv/live1/G_JINYING/G_JINYING/
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongmanxiuchang.png",group-title="动漫",动漫秀场
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongmanxiuchang.png",group-title="IPTV",动漫秀场
 http://112.50.243.8/PLTV/88888888/224/3221226141/1.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Jinbaotiyu.png",group-title="IPTV",劲爆IPTV
 http://112.50.243.8/PLTV/88888888/224/3221226139/1.m3u8
@@ -819,7 +819,7 @@ http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225918/1.m3u8
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225933/1.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/badaxiju.png",group-title="IPTV",七彩戏剧
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225934/1.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jishipindao.png",group-title="IPTV",IPTV
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jishi.png",group-title="IPTV",纪实
 http://112.50.243.8/PLTV/88888888/224/3221226958/1.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/xinyule.png",group-title="IPTV",新娱乐
 http://223.110.241.139:6610/gitv/live1/G_XINYULE/G_XINYULE/
