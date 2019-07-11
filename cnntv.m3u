@@ -451,7 +451,7 @@ http://v.wangjiuling.com/tv?sv=a0qsOPiB4cpJyYAv
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/bbcworldnews.png",group-title="翻墙区（港台）",BBC WORLD NEWS
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbyule.png",group-title="翻墙区（港台）",TVB娛樂新聞台
 http://v.wangjiuling.com/tv?sv=2BdUMwuqdU0YJPqo
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/qimiao.png",group-title="翻墙区（港台）",奇妙电视
+#EXTINF:0 tvg-logo="https://s11.mogucdn.com/mlcdn/fe720b/190311_6h8k0jefh1fjg3lff98ifl4dghb25_240x149.jpg",group-title="翻墙区（港台）",香港开电视
 http://v.wangjiuling.com/tv?sv=V8YiVNS79FDPMerJ
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtianguoji.png",group-title="翻墙区（港台）",靖天國際
 http://v.wangjiuling.com/tv?sv=aqYSOPiB4cpJY1NN
@@ -949,9 +949,7 @@ http://v.wangjiuling.com/tv?sv=2vXUMwuqdU0YP1AA
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbohd.png",group-title="不翻能看系列",HBO HD
 http://v.wangjiuling.com/tv?sv=XjOtPNcRncJb2poq
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/qimiao.png",group-title="不翻能看系列",奇妙电视
-http://v.wangjiuling.com/tv?sv=V8YiVNS79FDPMerJ
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/qimiao.png",group-title="不翻能看系列",奇妙电视
+#EXTINF:0 tvg-logo="https://s11.mogucdn.com/mlcdn/fe720b/190311_6h8k0jefh1fjg3lff98ifl4dghb25_240x149.jpg",group-title="不翻能看系列",香港开电视
 http://v.wangjiuling.com/tv?sv=V8YiVNS79FDPMerJ
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtianguoji.png",group-title="不翻能看系列",靖天國際
 http://v.wangjiuling.com/tv?sv=aqYSOPiB4cpJY1NN
