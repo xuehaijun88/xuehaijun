@@ -662,6 +662,40 @@ http://125.227.210.37:8884/VideoInput/play.ts
 http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
 
 
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690621284_114.png" tvg-name="CCTV1" group-title="CCTV备用",CCTV-1综合HD
+http://cctv5ksc.v.kcdnvip.com/live/cctv1_2/index.m3u8
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690628754_865.png" tvg-name="CCTV2" group-title="CCTV备用",CCTV-2财经HD
+http://cctv5ksc.v.kcdnvip.com/live/cctv2_2/index.m3u8
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690636178_381.png" tvg-name="CCTV3" group-title="CCTV备用",CCTV-3综艺HD
+http://cctv5ksc.v.kcdnvip.com/live/cctv3_2/index.m3u8
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690643904_775.png" tvg-name="CCTV4" group-title="CCTV备用",CCTV-4国际HD
+http://cctv5ksc.v.kcdnvip.com/live/cctv4_2/index.m3u8
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690667705_448.png" tvg-name="CCTV5" group-title="CCTV备用",CCTV-5体育HD
+http://cctv5ksc.v.kcdnvip.com/live/cctv5_2/index.m3u8
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690858316_436.png" tvg-name="CCTV15" group-title="CCTV备用",CCTV-15音乐
+http://cctv5ksc.v.kcdnvip.com/live/cctv5plus_2/index.m3u8
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690778390_816.png" tvg-name="CCTV6" group-title="CCTV备用",CCTV-6电影HD
+http://cctv5ksc.v.kcdnvip.com/live/cctv6_2/index.m3u8
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690784255_278.png" tvg-name="CCTV7" group-title="CCTV备用",CCTV-7军农D
+http://cctv5ksc.v.kcdnvip.com/live/cctv7_2/index.m3u8
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690790198_722.png" tvg-name="CCTV8" group-title="CCTV备用",CCTV-8电视剧HD
+http://cctv5ksc.v.kcdnvip.com/live/cctv8_2/index.m3u8
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690795998_302.png" tvg-name="CCTV9" group-title="CCTV备用",CCTV-9纪录HD
+http://cctv5ksc.v.kcdnvip.com/live/cctvjilu_2/index.m3u8
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690808635_434.png" tvg-name="CCTV10" group-title="CCTV备用",CCTV-10科教HD
+http://cctv5ksc.v.kcdnvip.com/live/cctv10_2/index.m3u8
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690834418_289.png" tvg-name="CCTV11" group-title="CCTV备用",CCTV-11戏曲
+http://cctv5ksc.v.kcdnvip.com/live/cctv11_2/index.m3u8
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690834418_289.png" tvg-name="CCTV12" group-title="CCTV备用",CCTV-12社法HD
+http://cctv5ksc.v.kcdnvip.com/live/cctv12_2/index.m3u8
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690846155_999.png" tvg-name="CCTV13" group-title="CCTV备用",CCTV-13新闻
+http://cctv5ksc.v.kcdnvip.com/live/cctv13_2/index.m3u8
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690851927_207.png" tvg-name="CCTV14" group-title="CCTV备用",CCTV-14少儿HD
+http://cctvcnch5c.v.wscdns.com/live/cctvchild_2/index.m3u8
+#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690858316_436.png" tvg-name="CCTV15" group-title="CCTV备用",CCTV-15音乐
+http://cctv5ksc.v.kcdnvip.com/live/cctv15_2/index.m3u8
+
+
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-1.png",group-title="CCTV备用",CCTV1-HD
 http://223.110.241.139:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-2.png",group-title="CCTV备用",CCTV2-HD
