@@ -270,15 +270,15 @@ http://v.wangjiuling.com/tv?sv=jAosb7HPyCnJ14M4
 http://v.wangjiuling.com/tv?sv=qBluvlClBURXo1B1
 #EXTINF:0 tvg-logo="http://iplaytv.oss-cn-beijing.aliyuncs.com/gdty.jpg",group-title="广东",广东国际频道
 http://nclive.grtn.cn/gjpd/sd/live.m3u8
-#EXTINF:0 tvg-logo="http://iplaytv.oss-cn-beijing.aliyuncs.com/DFT_tvs.jpg",group-title="广东广东影视频道(TVS-4)
+#EXTINF:0 tvg-logo="http://iplaytv.oss-cn-beijing.aliyuncs.com/DFT_tvs.jpg",group-title="广东",广东影视频道(TVS-4)
 http://nclive.grtn.cn/tvs4/sd/live.m3u8
-#EXTINF:0 tvg-logo="http://iplaytv.oss-cn-beijing.aliyuncs.com/DFT_tvs.jpg",group-title="广东广东少儿频道(TVS-5)
+#EXTINF:0 tvg-logo="http://iplaytv.oss-cn-beijing.aliyuncs.com/DFT_tvs.jpg",group-title="广东",广东少儿频道(TVS-5)
 http://nclive.grtn.cn/tvs5/sd/live.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jiajiakatong.png",group-title="广东广东嘉佳卡通
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jiajiakatong.png",group-title="广东",广东嘉佳卡通
 http://nclive.grtn.cn/jjkt/sd/live.m3u8
 #EXTINF:0 tvg-logo="http://iplaytv.oss-cn-beijing.aliyuncs.com/DFT_gdgolf.jpg",group-title="广东",广东高尔夫频道
 http://nclive.grtn.cn/grfpd/sd/live.m3u8
-#EXTINF:0 tvg-logo="http://iplaytv.oss-cn-beijing.aliyuncs.com/gdty.jpg",group-title="广东",广东科教
+#EXTINF:0 tvg-logo="http://iplaytv.oss-cn-beijing.aliyuncs.com/DFT_tvs.jpg",group-title="广东",广东经济科教
 http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
 #EXTINF:0 tvg-logo="http://iplaytv.oss-cn-beijing.aliyuncs.com/gdty.jpg",group-title="广东",广东综艺4K
 http://nclive.grtn.cn/4K/sd/live.m3u8
