@@ -259,14 +259,31 @@ http://hls-ott-zhibo.wasu.tv/live/273/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",国外动作HD
 http://hls-ott-zhibo.wasu.tv/live/305/index.m3u8
 
-#EXTINF:0 tvg-logo="",group-title="广东",廣東衛視
+
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/guangdongweishi.png",group-title="广东",廣東衛視
 http://v.wangjiuling.com/tv?sv=xV4IrVUowHdgNpwp
-#EXTINF:0 tvg-logo="",group-title="广东",廣東珠江
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/guangdongzhujiang.png",group-title="广东",廣東珠江
 http://v.wangjiuling.com/tv?sv=rLdSQmsA4cvEAY4Y
-#EXTINF:0 tvg-logo="",group-title="广东",廣東体育
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/guangdongtiyu.png",group-title="广东",廣東体育
 http://v.wangjiuling.com/tv?sv=jAosb7HPyCnJ14M4
-#EXTINF:0 tvg-logo="",group-title="广东",廣東新聞
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/guangdongxinwen.png",group-title="广东",廣東新聞
 http://v.wangjiuling.com/tv?sv=qBluvlClBURXo1B1
+#EXTINF:0 tvg-logo="http://iplaytv.oss-cn-beijing.aliyuncs.com/gdty.jpg",group-title="广东",广东国际频道
+http://nclive.grtn.cn/gjpd/sd/live.m3u8
+#EXTINF:0 tvg-logo="http://iplaytv.oss-cn-beijing.aliyuncs.com/DFT_tvs.jpg",group-title="广东广东影视频道(TVS-4)
+http://nclive.grtn.cn/tvs4/sd/live.m3u8
+#EXTINF:0 tvg-logo="http://iplaytv.oss-cn-beijing.aliyuncs.com/DFT_tvs.jpg",group-title="广东广东少儿频道(TVS-5)
+http://nclive.grtn.cn/tvs5/sd/live.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jiajiakatong.png",group-title="广东广东嘉佳卡通
+http://nclive.grtn.cn/jjkt/sd/live.m3u8
+#EXTINF:0 tvg-logo="http://iplaytv.oss-cn-beijing.aliyuncs.com/DFT_gdgolf.jpg",group-title="广东",广东高尔夫频道
+http://nclive.grtn.cn/grfpd/sd/live.m3u8
+#EXTINF:0 tvg-logo="http://iplaytv.oss-cn-beijing.aliyuncs.com/gdty.jpg",group-title="广东",广东科教
+http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
+#EXTINF:0 tvg-logo="http://iplaytv.oss-cn-beijing.aliyuncs.com/gdty.jpg",group-title="广东",广东综艺4K
+http://nclive.grtn.cn/4K/sd/live.m3u8
+
+
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/xiamenyitao.png",group-title="厦门",厦门一套
 http://v.wangjiuling.com/tv?sv=XR4cPNcRncJb2VNV
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/xiamenertao.png",group-title="厦门",厦门二套
