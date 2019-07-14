@@ -897,12 +897,20 @@ http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
 http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
 
 
-
-
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkc-zbxw.png",group-title="不翻能看系列",香港有线新闻台
+http://hls2.liveshow.lss-user.baidubce.com/live/5dacad9d667242b394e91a9cb79345d6/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="不翻能看系列",翡翠台HD
 http://hls2.liveshow.lss-user.baidubce.com/live/7b0df224eb2a42c5aee9dbe7fa8ee7c7/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbj2.png",group-title="不翻能看系列",TVB J2台
 http://hls2.liveshow.lss-user.baidubce.com/live/a3cf2322ce464e31b223ba4b6746abbf/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbwxcj.png",group-title="不翻能看系列",TVB财经咨询台
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbhudongxinwena.png",group-title="不翻能看系列",TVB无线新闻台
+http://bytedance.hdllive.ks-cdn.com/live/34de4d3fe19e4c53a3642b63d815acea.flv
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbohd.png",group-title="不翻能看系列",HBO HD
+http://v.wangjiuling.com/tv?sv=XjOtPNcRncJb2poq
+#EXTINF:0 tvg-logo="https://s11.mogucdn.com/mlcdn/fe720b/190311_6h8k0jefh1fjg3lff98ifl4dghb25_240x149.jpg",group-title="不翻能看系列",香港开电视
+http://v.wangjiuling.com/tv?sv=V8YiVNS79FDPMerJ
 #EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/ShuangXingtai.png" group-title="不翻能看系列",Astro 双星
 http://bestiptv.info:8080/live//5Jba87Q7vq/DFVFWF2KLg//214810.m3u8
 #EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/quanjiatai.png" group-title="不翻能看系列",Astro 全佳
@@ -947,13 +955,9 @@ https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="不翻能看系列",翡翠台HD
 http://v.wangjiuling.com/tv?sv=9eMuvJCywCK9OEzz
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbj2.png",group-title="不翻能看系列",TVB J2台
-http://v.wangjiuling.com/tv?sv=qVYhvlClBURXlDyy
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbhudongxinwena.png",group-title="不翻能看系列",TVB无线新闻台
-http://v.wangjiuling.com/tv?sv=d0DSyXFWzsdjmPyB
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbwxcj.png",group-title="不翻能看系列",TVB財經資訊台
-http://v.wangjiuling.com/tv?sv=2vXUMwuqdU0YP1AA
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbwxcj.png",group-title="不翻能看系列",无线财经咨询台
+http://bytedance.hdllive.ks-cdn.com/live/34de4d3fe19e4c53a3642b63d815acea.flv
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbwxcj.png",group-title="不翻能看系列",TVB财经咨询台
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbohd.png",group-title="不翻能看系列",HBO HD
 http://v.wangjiuling.com/tv?sv=XjOtPNcRncJb2poq
