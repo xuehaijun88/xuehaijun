@@ -897,12 +897,9 @@ http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
 http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkc-zbxw.png",group-title="不翻能看系列",香港有线新闻台
-http://hls2.liveshow.lss-user.baidubce.com/live/5dacad9d667242b394e91a9cb79345d6/playlist.m3u8
+
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="不翻能看系列",翡翠台HD
 http://hls2.liveshow.lss-user.baidubce.com/live/7b0df224eb2a42c5aee9dbe7fa8ee7c7/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbj2.png",group-title="不翻能看系列",TVB J2台
-http://hls2.liveshow.lss-user.baidubce.com/live/a3cf2322ce464e31b223ba4b6746abbf/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbwxcj.png",group-title="不翻能看系列",TVB财经咨询台
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbhudongxinwena.png",group-title="不翻能看系列",TVB无线新闻台
@@ -1079,8 +1076,6 @@ http://bytedance.hdllive.ks-cdn.com/live/2aaa5cdafae44b0ca0c253a29878b7b0.flv
 http://bytedance.hdllive.ks-cdn.com/live/abc810f4b94f40b097e1225808ec76ba.flv
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsenzonghe.png",group-title="不翻能看系列",东森综合
 http://bytedance.hdllive.ks-cdn.com/live/6da7bd5f820c4c64b974521b040c860a.flv
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangdianying.png",group-title="不翻能看系列",凤凰电影
-http://bytedance.hdllive.ks-cdn.com/live/0ab7e3e1d7414465b179b3d1de66dbd9.flv
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhongtianxinwena.png",group-title="不翻能看系列",中天新闻
 http://bytedance.hdllive.ks-cdn.com/live/4de6e05c6cdd435f95c37a917862bea7.flv
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhongtianyazhou.png",group-title="不翻能看系列",中天亚洲台
