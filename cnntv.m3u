@@ -899,6 +899,10 @@ http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
 
 
 
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="不翻能看系列",翡翠台HD
+http://hls2.liveshow.lss-user.baidubce.com/live/7b0df224eb2a42c5aee9dbe7fa8ee7c7/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbj2.png",group-title="不翻能看系列",TVB J2台
+http://hls2.liveshow.lss-user.baidubce.com/live/a3cf2322ce464e31b223ba4b6746abbf/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/ShuangXingtai.png" group-title="不翻能看系列",Astro 双星
 http://bestiptv.info:8080/live//5Jba87Q7vq/DFVFWF2KLg//214810.m3u8
 #EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/quanjiatai.png" group-title="不翻能看系列",Astro 全佳
@@ -1040,5 +1044,5 @@ http://live-stream.kksmg.com/hls/ylpde66e9037_7bf15f94aa8a107352bc28c6/playlist.
 http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
 #EXTINF:-1 tvg-id="上海第一财经" tvg-logo="http://iplaytv.oss-cn-beijing.aliyuncs.com/DFT_shd1cj.jpg" group-title="上海", 上海第一财经
 http://hw-stream.kksmg.com/hls/channel1101/index.m3u8
-#EXTINF:-1 tvg-id="上海新闻综合" tvg-logo="http://iplaytv.oss-cn-beijing.aliyuncs.com/shdst.jpg" group-title="2>CN卫视", 上海新闻综合
+#EXTINF:-1 tvg-id="上海新闻综合" tvg-logo="http://iplaytv.oss-cn-beijing.aliyuncs.com/shdst.jpg" group-title="上海", 上海新闻综合
 http://live-stream.kksmg.com/hls/stv7af3c4ee_5ed4462f9ba057dadf59f2e3/playlist.m3u8
