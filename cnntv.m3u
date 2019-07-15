@@ -899,11 +899,9 @@ http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="不翻能看系列",翡翠台HD
-http://hls2.liveshow.lss-user.baidubce.com/live/7b0df224eb2a42c5aee9dbe7fa8ee7c7/playlist.m3u8
+http://v.wangjiuling.com/tv?sv=9eMuvJCywCK9OEzz
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbwxcj.png",group-title="不翻能看系列",TVB财经咨询台
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbhudongxinwena.png",group-title="不翻能看系列",TVB无线新闻台
-http://bytedance.hdllive.ks-cdn.com/live/34de4d3fe19e4c53a3642b63d815acea.flv
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbohd.png",group-title="不翻能看系列",HBO HD
 http://v.wangjiuling.com/tv?sv=XjOtPNcRncJb2poq
 #EXTINF:0 tvg-logo="https://s11.mogucdn.com/mlcdn/fe720b/190311_6h8k0jefh1fjg3lff98ifl4dghb25_240x149.jpg",group-title="不翻能看系列",香港开电视
@@ -1048,6 +1046,7 @@ http://hw-stream.kksmg.com/hls/channel1101/index.m3u8
 #EXTINF:-1 tvg-id="上海新闻综合" tvg-logo="http://iplaytv.oss-cn-beijing.aliyuncs.com/shdst.jpg" group-title="上海", 上海新闻综合
 http://live-stream.kksmg.com/hls/stv7af3c4ee_5ed4462f9ba057dadf59f2e3/playlist.m3u8
 
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/220px-RTHK_TV_32.svg.png",group-title="不翻能看系列",港台電視 32
 http://bytedance.hdllive.ks-cdn.com/live/b1830a1557b440d4aa9f7beed3fed566.flv
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbwxcj.png",group-title="不翻能看系列",TVB 财经
@@ -1055,48 +1054,7 @@ http://bytedance.hdllive.ks-cdn.com/live/34de4d3fe19e4c53a3642b63d815acea.flv
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Hong_Kong_Open_TV.png",group-title="不翻能看系列",香港开
 http://bytedance.hdllive.ks-cdn.com/live/640d13cde14948b8b890d1c80b120a1e.flv
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="不翻能看系列",TVB翡翠台
-http://bytedance.hdllive.ks-cdn.com/live/50e38db30f08430cb2f814df9b234410.flv
+http://v.wangjiuling.com/tv?sv=9eMuvJCywCK9OEzz
 #EXTINF:0 tvg-logo="http://static2.tvzhe.com/channel/logo/ICABLE-MOVIE1.jpg",group-title="不翻能看系列",电影一台
 http://al3-flv.live.huajiao.com/live_huajiao_v2/6licM7M5QOml694d.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbxinghe.png",group-title="不翻能看系列",tvb星河
-http://bytedance.hdllive.ks-cdn.com/live/a3bd861f79264791bce64883a666d549.flv
-#EXTINF:0 tvg-logo="http://chuantu.xyz/t6/702/1563131224x2890191855.jpg",group-title="不翻能看系列",tvb功夫
-http://bytedance.hdllive.ks-cdn.com/live/483d740b3e4b4f529eb1090b95cec9f5.flv
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsenxiju.png",group-title="不翻能看系列",东森戏剧
-http://bytedance.hdllive.ks-cdn.com/live/e235dd1c43e849b8839725e7370f687a.flv
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsenchaoshi.png",group-title="不翻能看系列",东森超视
-http://bytedance.hdllive.ks-cdn.com/live/9279e49e111146e790514bd8dd8fe8a5.flv
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongshengyouyou.png",group-title="不翻能看系列",东森幼幼
-http://bytedance.hdllive.ks-cdn.com/live/57276839e95f4def8edeeab852c86227.flv
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsendianyin.png",group-title="不翻能看系列",东森电影
-http://bytedance.hdllive.ks-cdn.com/live/b3022f8eb79f444e9c4d2f1f8e1f9a22.flv
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongshengyangpian.png",group-title="不翻能看系列",东森洋片
-http://bytedance.hdllive.ks-cdn.com/live/2aaa5cdafae44b0ca0c253a29878b7b0.flv
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsengxinwen.png",group-title="不翻能看系列",东森新闻
-http://bytedance.hdllive.ks-cdn.com/live/abc810f4b94f40b097e1225808ec76ba.flv
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsenzonghe.png",group-title="不翻能看系列",东森综合
-http://bytedance.hdllive.ks-cdn.com/live/6da7bd5f820c4c64b974521b040c860a.flv
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhongtianxinwena.png",group-title="不翻能看系列",中天新闻
-http://bytedance.hdllive.ks-cdn.com/live/4de6e05c6cdd435f95c37a917862bea7.flv
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhongtianyazhou.png",group-title="不翻能看系列",中天亚洲台
-http://bytedance.hdllive.ks-cdn.com/live/195fd973f776411b99f8355705d10fd3.flv
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsenyazhou.png",group-title="不翻能看系列",龙祥时代
-http://bytedance.hdllive.ks-cdn.com/live/785a652d12894359a06c2f5da7513f5b.flv
-#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png",group-title="不翻能看系列",天映频道
-http://bytedance.hdllive.ks-cdn.com/live/3fa4966d402c434f897445157bb9e95e.flv
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/gtvbadazonghetai.png",group-title="不翻能看系列",八大娱乐
-http://bytedance.hdllive.ks-cdn.com/live/2e8eb81f52114efaa9b63d129ceb7380.flv
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/huashi.png",group-title="不翻能看系列",华视
-http://bytedance.hdllive.ks-cdn.com/live/12df606bc3c4452ca13b0f0372ad4e88.flv
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhongshi.png",group-title="不翻能看系列",中视
-http://bytedance.hdllive.ks-cdn.com/live/7bad218a19cd4b33b9451aa81f830ed4.flv
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/huanyucaijing.png",group-title="不翻能看系列",寰宇新闻台
-http://bytedance.hdllive.ks-cdn.com/live/6a4feaecb80c4f4c8c689eaad63ea7ed.flv
-#EXTINF:0 tvg-logo="http://static2.tvzhe.com/channel/logo/NEXTTV-NEWS.jpg",group-title="不翻能看系列",一新闻
-http://bytedance.hdllive.ks-cdn.com/live/ec45b1e4d02e409da8308a39e578d32b.flv
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbsxinwen.png",group-title="不翻能看系列",tvbs新闻台
-http://bytedance.hdllive.ks-cdn.com/live/60fcb3186e814388ade9448758753dca.flv
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/feifanxinwen.png",group-title="不翻能看系列",非凡新闻
-http://bytedance.hdllive.ks-cdn.com/live/b342f13f57ef4a2aa2d535be7213cf9c.flv
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/sanlixinwen.png",group-title="不翻能看系列",三立新闻
-http://bytedance.hdllive.ks-cdn.com/live/12fbefd2b7ac4e1380e80680faed36e2.flv
+
