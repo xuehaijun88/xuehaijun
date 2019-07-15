@@ -711,76 +711,24 @@ http://v.wangjiuling.com/tv?sv=zQN1oV2sqLi7AFVjpnya
 
 #EXTINF:0 tvg-logo="",group-title="测试频道",无线新闻[1920*1080]
 http://202.40.202.173:8000/main
-#EXTINF:0 tvg-logo="",group-title="测试频道",寰宇新闻[854*480]
-http://ms003.happytv.com.tw/live/z8bCZRy7IjD8Nyrm/index.m3u8
 #EXTINF:0 tvg-logo="",group-title="测试频道",东森新闻HD[1920*1080]
 http://61.216.10.122:4078/VideoInput/play.ts
 #EXTINF:0 tvg-logo="",group-title="测试频道",TVBS新闻[854*480]
 http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
 #EXTINF:0 tvg-logo="",group-title="测试频道",三立新闻[854*480]
 http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
-#EXTINF:0 tvg-logo="",group-title="测试频道",翡翠台
-http://devlivepull.migucloud.com/live/ba00d9a107d735d963f33a612698d31e/playlist.m3u8
-#EXTINF:0 tvg-logo="",group-title="测试频道",J2
-http://devlivepull.migucloud.com/live/0ebdc7a3e5eed0a64e699492d16afebf/playlist.m3u8
 #EXTINF:0 tvg-logo="",group-title="测试频道",开电视
 http://devlivepull.migucloud.com/live/4fcb3a0cda6a458f99c6c7e5e5d0dd93/playlist.m3u8
-#EXTINF:0 tvg-logo="",group-title="测试频道",民视[1280*720]
-http://60.251.37.44:8080/live/super7659.m3u8
-#EXTINF:0 tvg-logo="",group-title="测试频道",中视[1280*720]
-http://60.251.37.44:8080/live/gtvdrama7659.m3u8
-#EXTINF:0 tvg-logo="",group-title="测试频道",台视[1280*720]
-http://60.251.37.44:8080/live/yyv7659.m3u8
-#EXTINF:0 tvg-logo="",group-title="测试频道",华视[1280*720]
-http://60.250.69.26:8080/live/ctinews9785.m3u8
 #EXTINF:0 tvg-logo="",group-title="测试频道",八大综合[1280*720]
 http://60.251.37.44:8080/live/gtv7659.m3u8
 #EXTINF:0 tvg-logo="",group-title="测试频道",中天综合[1280*720]
 http://60.250.69.26:8080/live/cti9785.m3u8
-#EXTINF:0 tvg-logo="",group-title="测试频道",中天娱乐[1280*720]
-http://60.250.69.26:8080/live/ctihappy9785.m3u8
 #EXTINF:0 tvg-logo="",group-title="测试频道",八大第一[1280*720]
 http://60.251.37.44:8080/live/gtvfirst7659.m3u8
-#EXTINF:0 tvg-logo="",group-title="测试频道",三立台湾[1280*720]
-http://60.251.37.44:8080/live/settaiwan7659.m3u8
 #EXTINF:0 tvg-logo="",group-title="测试频道",三立都會[1280*720]
 http://60.250.69.26:8080/live/setcity9785.m3u8
-#EXTINF:0 tvg-logo="",group-title="测试频道",衛視西片[1280*720]
-http://60.250.69.26:8080/live/startwest8976.m3u8
-#EXTINF:0 tvg-logo="",group-title="测试频道",travel[1280*720]
-http://60.250.69.26:8080/live/travel8976.m3u8
-#EXTINF:0 tvg-logo="",group-title="测试频道",緯來體育[1280*720]
-http://60.250.69.26:8080/live/vlsports8976.m3u8
-#EXTINF:0 tvg-logo="",group-title="测试频道",緯來日本[1280*720]
-http://60.250.69.26:8080/live/vljp8976.m3u8
-#EXTINF:0 tvg-logo="",group-title="测试频道",緯來綜合[1280*720]
-http://60.250.69.26:8080/live/vl8976.m3u8
 #EXTINF:0 tvg-logo="",group-title="测试频道",緯來娛樂[1280*720]
 http://60.250.69.26:8080/live/vlhappy8976.m3u8
-#EXTINF:0 tvg-logo="",group-title="测试频道",FOX MOVIES[1280*720]
-http://60.250.69.26:8080/live/startwest8976.m3u8
-#EXTINF:0 tvg-logo="",group-title="测试频道",TLC旅遊生活[1280*720]
-http://60.250.69.26:8080/live/travel8976.m3u8
-#EXTINF:0 tvg-logo="",group-title="测试频道",東森新聞[1280*720]
-http://60.250.69.26:8080/live/ebcnews8976.m3u8
-#EXTINF:0 tvg-logo="",group-title="测试频道",東森戲劇[1280*720]
-http://60.250.69.26:8080/live/ebcdrama8976.m3u8
-#EXTINF:0 tvg-logo="",group-title="测试频道",東森幼幼[1280*720]
-http://60.250.69.26:8080/live/ebckid8976.m3u8
-#EXTINF:0 tvg-logo="",group-title="测试频道",東森綜合[1280*720]
-http://60.250.69.26:8080/live/ebc8976.m3u8
-#EXTINF:0 tvg-logo="",group-title="测试频道",東森財經
-http://60.250.69.26:8080/live/ebcfinace8976.m3u8
-#EXTINF:0 tvg-logo="",group-title="测试频道",Tvbs
-http://60.250.69.26:8080/live/tvbs8976.m3u8
-#EXTINF:0 tvg-logo="",group-title="测试频道",Tvbs歡樂
-http://60.250.69.26:8080/live/tvbsfun8976.m3u8
-#EXTINF:0 tvg-logo="",group-title="测试频道",衛視電影
-http://60.250.69.26:8080/live/startmovie8976.m3u8
-#EXTINF:0 tvg-logo="",group-title="测试频道",衛視中文
-http://60.250.69.26:8080/live/startchines8976.m3u8
-#EXTINF:0 tvg-logo="",group-title="测试频道",衛視合家歡
-http://60.250.69.26:8080/live/startfamily8976.m3u8
 #EXTINF:0 tvg-logo="",group-title="测试频道",CNN
 http://60.251.37.44:8080/live/cnn1033.m3u8
 #EXTINF:0 tvg-logo="",group-title="测试频道",CNBC
@@ -789,8 +737,6 @@ http://60.251.37.44:8080/live/bbc1033.m3u8
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 #EXTINF:0 tvg-logo="",group-title="测试频道",HBO[785*576]
 http://218.202.220.2:5000/nn_live.ts?id=HBO
-#EXTINF:0 tvg-logo="",group-title="测试频道",电视剧2
-http://tx.hls.huya.com/huyalive/94525224-2469517548-10606497105558110208-2847699176-10057-A-0-1.m3u8
 #EXTINF:0 tvg-logo="",group-title="测试频道",澳门卫视
 http://stream.mastvnet.com/MSTV/SD/live.m3u8
 #EXTINF:0 tvg-logo="",group-title="测试频道",澳亚卫视
