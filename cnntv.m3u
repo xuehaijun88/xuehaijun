@@ -132,8 +132,8 @@ http://v.wangjiuling.com/tv?sv=2lXJdMBuMwuqdU0YO397
 http://v.wangjiuling.com/tv?sv=V49pam6CVNS79FDP1vEm
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jishi.png",group-title="IPTV",上海纪实
 http://v.wangjiuling.com/tv?sv=P341aJOuaguW6s2zLWpb
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/youyoubaobei.png",group-title="IPTV",优优宝贝
-http://v.wangjiuling.com/tv?sv=4KzSx7Hj2trjwmJl
+
+
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",精彩点播01
 http://v.wangjiuling.com/tv?sv=byqUNbIQJINQbLXL
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",精彩点播02
@@ -933,11 +933,15 @@ http://111.40.205.76/PLTV/88888888/224/3221225654/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingyingkatong.png",group-title="IPTV", 金鹰卡通
 http://124.232.231.246:6610/000000001001/201600020009/index.m3u8?A
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongmanxiuchang.png",group-title="IPTV",动漫秀场
-http://112.50.243.8/PLTV/88888888/224/3221226141/1.m3u8
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225977/1.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianzitiyu.png",group-title="IPTV",电竞世界
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/youyoubaobei.png",group-title="IPTV",优优宝贝
+http://112.17.40.140/PLTV/88888888/224/3221226829/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Xuandongkatong.png",group-title="IPTV",优优宝贝
+http://223.110.241.204:6610/gitv/live1/G_XUANDONG/G_XUANDONG/
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/lanqiu.png",group-title="IPTV",篮球
-http://223.110.241.139:6610/gitv/live1/G_LANQIU/G_LANQIU/
+http://223.110.241.204:6610/gitv/live1/G_LANQIU/G_LANQIU/
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/youxifengyun.png",group-title="IPTV",游戏风云
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225897/1.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/diyicaijinghd.png",group-title="IPTV",上海第一财经
@@ -1042,6 +1046,8 @@ http://v.wangjiuling.com/tv?sv=9eMuvJCywCK9OEzz
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbohd.png",group-title="不翻能看系列",HBO HD
 http://v.wangjiuling.com/tv?sv=XjOtPNcRncJb2poq
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbohd.png",group-title="不翻能看系列",HBO 2
+http://161.0.157.6/PLTV/88888888/224/3221227026/01.m3u8
 #EXTINF:0 tvg-logo="https://s11.mogucdn.com/mlcdn/fe720b/190311_6h8k0jefh1fjg3lff98ifl4dghb25_240x149.jpg",group-title="不翻能看系列",香港开电视
 http://v.wangjiuling.com/tv?sv=V8YiVNS79FDPMerJ
 #EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/ShuangXingtai.png" group-title="不翻能看系列",Astro 双星
@@ -1092,6 +1098,7 @@ http://v.wangjiuling.com/tv?sv=9eMuvJCywCK9OEzz
 http://bytedance.hdllive.ks-cdn.com/live/34de4d3fe19e4c53a3642b63d815acea.flv
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbwxcj.png",group-title="不翻能看系列",TVB财经咨询台
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbohd.png",group-title="不翻能看系列",HBO HD
 http://v.wangjiuling.com/tv?sv=XjOtPNcRncJb2poq
 #EXTINF:0 tvg-logo="https://s11.mogucdn.com/mlcdn/fe720b/190311_6h8k0jefh1fjg3lff98ifl4dghb25_240x149.jpg",group-title="不翻能看系列",香港开电视
