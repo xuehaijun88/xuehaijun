@@ -1038,6 +1038,8 @@ http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playli
 http://v.wangjiuling.com/tv?sv=XjOtPNcRncJb2poq
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbohd.png",group-title="不翻能看系列",HBO 2
 http://161.0.157.6/PLTV/88888888/224/3221227026/01.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbohd.png",group-title="不翻能看系列",HBO 3
+http://rous.aicloud.ro/playlist.m3u8?s=vlog&ch=5614
 #EXTINF:0 tvg-logo="https://s11.mogucdn.com/mlcdn/fe720b/190311_6h8k0jefh1fjg3lff98ifl4dghb25_240x149.jpg",group-title="不翻能看系列",香港开电视
 http://v.wangjiuling.com/tv?sv=V8YiVNS79FDPMerJ
 #EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/ShuangXingtai.png" group-title="不翻能看系列",Astro 双星
