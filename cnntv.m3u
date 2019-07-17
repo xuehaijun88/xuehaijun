@@ -902,13 +902,13 @@ http://124.232.231.246:6610/000000001001/201600020009/index.m3u8?A
 http://zb.lxb666.xyz/gzzb.php?id=dmxchd
 #EXTINF:0 tvg-logo="http://static2.tvzhe.com/channel/logo/CHINA-FOODTV.jpg",group-title="IPTV",中华美食
 http://zb.lxb666.xyz/gzzb.php?id=zhms
-#EXTINF:0 tvg-logo="http://chuantu.xyz/t6/702/1563399169x2890208783.jpg",group-title="IPTV",动漫秀场
+#EXTINF:0 tvg-logo="http://chuantu.xyz/t6/702/1563399169x2890208783.jpg",group-title="IPTV",FTV足球
 http://zb.lxb666.xyz/gzzb.php?id=zq
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianzitiyu.png",group-title="IPTV",vspn全电竞
 http://hls-ott-zhibo.wasu.tv/live/273/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/youyoubaobei.png",group-title="IPTV",优优宝贝
 http://112.17.40.140/PLTV/88888888/224/3221226829/index.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Xuandongkatong.png",group-title="IPTV",优优宝贝
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Xuandongkatong.png",group-title="IPTV",哈哈炫动
 http://223.110.241.204:6610/gitv/live1/G_XUANDONG/G_XUANDONG/
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/lanqiu.png",group-title="IPTV",篮球
 http://223.110.241.204:6610/gitv/live1/G_LANQIU/G_LANQIU/
