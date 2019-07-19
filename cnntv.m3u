@@ -1197,5 +1197,7 @@ http://v.wangjiuling.com/tv?sv=KvYxXJQhVYSDycrwqXpO
 http://live-stream.kksmg.com/hls/stv7af3c4ee_5ed4462f9ba057dadf59f2e3/playlist.m3u8
 #EXTINF:-1 ,tvg-id="上海新闻综合" tvg-logo="http://iplaytv.oss-cn-beijing.aliyuncs.com/shdst.jpg" group-title="上海",上海外语频道ICS
 http://live-stream.kksmg.com/hls/wypd6a3b86be_c4eb57c5b5c8573f77a00e49/playlist.m3u8
+#EXTINF:-1 ,tvg-id="上海新闻综合" tvg-logo="http://iplaytv.oss-cn-beijing.aliyuncs.com/shdst.jpg" group-title="上海",上海艺术人文
+http://live-stream.kksmg.com/hls/ysrw8d72fe92_69e959eb988a8bcb17405bef/playlist.m3u8?se=kankan&ct=2&_mode=1&_cp=1&_fk=515B9F111A25E2908AEFF728825E812EE4AD77450F6DC9BE6867A2C8624687C1
 
 
