@@ -98,6 +98,22 @@ http://v.wangjiuling.com/tv?sv=zQN1o6LIqLi7AFVN28Or
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/henanweishi.png",group-title="卫视",河南卫视HD
 http://v.wangjiuling.com/tv?sv=4XgldVLTx7HbPCrB2DQm
 
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/discoveryhd.png",group-title="IPTV",求索记录
+http://zb.lxb666.xyz/gzzb.php?id=qsjlhd
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jishipindao.png" group-title="IPTV",全纪实
+http://zb.lxb666.xyz/gzzb.php?id=qjshd
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/national.png",group-title="IPTV",国家地理
+http://61.216.10.122:4020/VideoInput/play.ts
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tansuo.png",group-title="IPTV",探索亚洲
+http://61.216.10.122:4046/VideoInput/play.ts
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/chcgaoqinga.png",group-title="IPTV",CHC家庭影院HD
+http://zb.lxb666.xyz/gzzb.php?id=chchd
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/chcdongzuo.png",group-title="IPTV",CHC动作电影HD
+http://zb.lxb666.xyz/gzzb.php?id=chcdzhd
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/chcjiating.png",group-title="IPTV",CHC家庭影院HD
+http://zb.lxb666.xyz/gzzb.php?id=chcjthd
+
+
 
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/chcdongzuo.png",group-title="IPTV",CHC动作电影HD
 http://v.wangjiuling.com/tv?sv=ARq4XJAFWOF6yc0Qj48v
@@ -112,7 +128,7 @@ http://v.wangjiuling.com/tv?sv=31qNdRLtonuz1hw9dM7z
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Jinbaotiyu.png",group-title="IPTV",劲爆体育
 http://v.wangjiuling.com/tv?sv=YE9banRtqMiOAflNnr82
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jishi.png",group-title="IPTV",上海纪实
-http://v.wangjiuling.com/tv?sv=BbqDXJNCbqHg7tB9x6wy
+
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jishipindao.png",group-title="IPTV",全纪实
 http://v.wangjiuling.com/tv?sv=LAWrQJlsLaugPtvad92x
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dushijuchang.png",group-title="IPTV",都市剧场
