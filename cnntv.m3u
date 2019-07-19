@@ -1156,8 +1156,8 @@ http://v.wangjiuling.com/tv?sv=OnzXyXQtlgTmzSNLXEWE
 http://v.wangjiuling.com/tv?sv=b3w0a03sNbIQJINQbLXL
 
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/330px-RTHK_TV_31.svg.png" group-title="不翻能看系列", 港台電視 31
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/220px-RTHK_TV_32.svg.png",group-title="不翻能看系列",港台電視 32
 http://bytedance.hdllive.ks-cdn.com/live/b1830a1557b440d4aa9f7beed3fed566.flv
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbwxcj.png",group-title="不翻能看系列",TVB 财经
@@ -1198,7 +1198,11 @@ http://live-stream.kksmg.com/hls/stv7af3c4ee_5ed4462f9ba057dadf59f2e3/playlist.m
 #EXTINF:-1 ,tvg-id="上海新闻综合" tvg-logo="http://iplaytv.oss-cn-beijing.aliyuncs.com/shdst.jpg" group-title="上海",上海外语频道ICS
 http://live-stream.kksmg.com/hls/wypd6a3b86be_c4eb57c5b5c8573f77a00e49/playlist.m3u8
 
+#EXTINF:0 ,tvg-id="上海新闻综合" tvg-logo="http://iplaytv.oss-cn-beijing.aliyuncs.com/shdst.jpg" group-title="上海",上海艺术人文
+http://live-stream.kksmg.com/hls/ysrw8d72fe92_69e959eb988a8bcb17405bef/playlist.m3u8
+
 #EXTINF:-1 ,tvg-id="上海新闻综合" tvg-logo="http://iplaytv.oss-cn-beijing.aliyuncs.com/shdst.jpg" group-title="上海",上海艺术人文
 http://live-stream.kksmg.com/hls/ysrw8d72fe92_69e959eb988a8bcb17405bef/playlist.m3u8
+
 
 
