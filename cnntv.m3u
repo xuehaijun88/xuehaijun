@@ -1090,10 +1090,7 @@ http://bestiptv.info:8080/live//5Jba87Q7vq/DFVFWF2KLg//214853.m3u8
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/5tv.png",group-title="不翻能看系列",Channel 5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="不翻能看系列",翡翠台HD
-http://v.wangjiuling.com/tv?sv=9eMuvJCywCK9OEzz
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbwxcj.png",group-title="不翻能看系列",TVB财经咨询台
-http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+
 
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbohd.png",group-title="不翻能看系列",HBO HD
 http://v.wangjiuling.com/tv?sv=XjOtPNcRncJb2poq
