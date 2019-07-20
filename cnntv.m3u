@@ -1229,7 +1229,7 @@ http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accessto
 http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA93C58U30976010K77584345I9C6AA6DFPBM32250AEV1044EZ33519WE2392C52D81&playtoken=ABCDEFGHI&programid=4200000054.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/guizhouweishi.png",group-title="卫视（备用）",贵州卫视HD
 http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA93C58U30976010K77584345I9C6AA6DFPBM32250AEV1044EZ33519WE2392C52D81&playtoken=ABCDEFGHI&programid=4200000251.m3u8
-EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fujianhaixiaweishi.png",group-title="卫视（备用）",厦门卫视
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fujianhaixiaweishi.png",group-title="卫视（备用）",厦门卫视
 http://cstv.live.wscdns.com/live/xiamen/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/qinghaiweishi.png",group-title="卫视（备用）",青海卫视HD
 http://112.50.243.8/PLTV/88888888/224/3221225841/1.m3u8
