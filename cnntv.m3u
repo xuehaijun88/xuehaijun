@@ -1183,6 +1183,17 @@ http://js.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274
 
 
 
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangzhongwen.png",group-title="凤凰卫视",凤凰卫视
+http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangzixunhd.png",group-title="凤凰卫视",凤凰资讯
+http://111.13.111.177/112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8?
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangxianggang.png",group-title="凤凰卫视",凤凰香港HD
+http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangdianying.png",group-title="凤凰卫视",凤凰电影
+rtmp://58.200.131.2:1935/livetv/fhdy
+
+
+
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hunanweishi.png",group-title="卫视（备用）",湖南卫视HD
 http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA93C58U30976010K77584345I9C6AA6DFPBM32250AEV1044EZ33519WE2392C52D81&playtoken=ABCDEFGHI&programid=4200000140.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jiangsuweishi.png",group-title="卫视（备用）",江苏卫视HD
