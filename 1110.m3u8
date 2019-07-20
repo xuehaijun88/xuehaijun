@@ -1224,9 +1224,7 @@ http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
 
 
 #EXTINF:0 tvg-logo="http://chuantu.xyz/t6/702/1562956301x1033347913.png",group-title="atv电视源群550144515",周星驰电影
-http://js.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
-
-
+lvvjms://23.237.32.182:8500:3502/live/cid=401
 
 #EXTINF:-1 tvg-id="上海纪实" tvg-logo="http://iplaytv.oss-cn-beijing.aliyuncs.com/DFT_shjspd.jpg" group-title="上海", 上海纪实频道
 http://hw-stream.kksmg.com/hls/channel1061/index.m3u8
