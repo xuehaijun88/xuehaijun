@@ -1059,12 +1059,10 @@ http://161.0.157.6/PLTV/88888888/224/3221227026/01.m3u8
 http://rous.aicloud.ro/playlist.m3u8?s=vlog&ch=5614
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkc-xw.png",group-title="不翻能看系列",有线新闻台
 http://www.chengbo.org/a2/hklive.m3u8?id=xgyxsw
-
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Viu.png",group-title="翻墙区（港台）",VIUTV
 http://v.wangjiuling.com/tv?sv=eoAcR0hNrHR4oa9a
 #EXTINF:0 tvg-logo="https://s11.mogucdn.com/mlcdn/fe720b/190311_6h8k0jefh1fjg3lff98ifl4dghb25_240x149.jpg",group-title="不翻能看系列",香港开电视
 http://v.wangjiuling.com/tv?sv=V8YiVNS79FDPMerJ
-
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/xingweidianying.png",group-title="不翻能看系列",星卫电影台
 http://devlivepull.migucloud.com/live/91d75decc2204d46956c80c7e1a57f4b/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/meiyadianyingtai.png",group-title="不翻能看系列",美亚电影台
