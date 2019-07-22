@@ -1189,6 +1189,26 @@ http://js.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274
 
 
 
+
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/hngj.png",group-title="湖南",湖南国际
+http://124.232.231.246:6610/000000001001/201600020001/1400.m3u8?version=v1.0&IASHttpSessionId=SLB2306720180428101122516017&AuthInfo=zGn%2FimY3Qu1C2sZjRr%2BmjWu7NqSwZODHigTdOqqI5nAEBpWoVt3xd4%2BtVEARmGhFDY6CmNmjOSCvqbv%2Fd3PrCs3COYRQIAxoIEEl2CoNB0KpkT3d1TUCZYEO3LyqEHdb&m3u8_level=2&terminal_flag=0&ispcode=8,tvming-HuNanWorld
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/hnjs.png",group-title="湖南",湖南经视
+http://124.232.231.246:6610/000000001001/201600020002/1400.m3u8?version=v1.0&IASHttpSessionId=SLB2306720180428101122516017&AuthInfo=zGn%2FimY3Qu1C2sZjRr%2BmjWu7NqSwZODHigTdOqqI5nAEBpWoVt3xd4%2BtVEARmGhFDY6CmNmjOSCvqbv%2Fd3PrCs3COYRQIAxoIEEl2CoNB0KpkT3d1TUCZYEO3LyqEHdb&m3u8_level=2&terminal_flag=0&ispcode=8,tvming-HuNanFinance
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/hnds.png",group-title="湖南",湖南都市
+http://124.232.231.246:6610/000000001001/201600020003/1400.m3u8?version=v1.0&IASHttpSessionId=SLB2306720180428101122516017&AuthInfo=zGn%2FimY3Qu1C2sZjRr%2BmjWu7NqSwZODHigTdOqqI5nAEBpWoVt3xd4%2BtVEARmGhFDY6CmNmjOSCvqbv%2Fd3PrCs3COYRQIAxoIEEl2CoNB0KpkT3d1TUCZYEO3LyqEHdb&m3u8_level=2&terminal_flag=0&ispcode=8,tvming-HuNanCity
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/湖南娱乐.png",group-title="湖南",湖南娱乐
+http://124.232.231.246:6610/000000001001/201600020004/1400.m3u8?version=v1.0&IASHttpSessionId=SLB2306720180428101122516017&AuthInfo=zGn%2FimY3Qu1C2sZjRr%2BmjWu7NqSwZODHigTdOqqI5nAEBpWoVt3xd4%2BtVEARmGhFDY6CmNmjOSCvqbv%2Fd3PrCs3COYRQIAxoIEEl2CoNB0KpkT3d1TUCZYEO3LyqEHdb&m3u8_level=2&terminal_flag=0&ispcode=8,tvming-HuNanYuLe
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/湖南电影.png",group-title="湖南",湖南电影
+http://124.232.231.246:6610/000000001001/201600020005/1400.m3u8?version=v1.0&IASHttpSessionId=SLB2306720180428101122516017&AuthInfo=zGn%2FimY3Qu1C2sZjRr%2BmjWu7NqSwZODHigTdOqqI5nAEBpWoVt3xd4%2BtVEARmGhFDY6CmNmjOSCvqbv%2Fd3PrCs3COYRQIAxoIEEl2CoNB0KpkT3d1TUCZYEO3LyqEHdb&m3u8_level=2&terminal_flag=0&ispcode=8#http://124.232.231.246:8088/000000001001/201600020005/index.m3u8?AuthInfo,tvming-HuNanMovie
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/hndsj.png",group-title="湖南",湖南电视剧
+http://124.232.231.246:6610/000000001001/201600020006/1400.m3u8?version=v1.0&IASHttpSessionId=SLB2306720180428101122516017&AuthInfo=zGn%2FimY3Qu1C2sZjRr%2BmjWu7NqSwZODHigTdOqqI5nAEBpWoVt3xd4%2BtVEARmGhFDY6CmNmjOSCvqbv%2Fd3PrCs3COYRQIAxoIEEl2CoNB0KpkT3d1TUCZYEO3LyqEHdb&m3u8_level=2&terminal_flag=0&ispcode=8,tvming-HuNanTeleplay
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/maids68/maidong/master/logo/hngg.png",group-title="湖南",湖南公共
+http://124.232.231.246:6610/000000001001/201600020007/1400.m3u8?version=v1.0&IASHttpSessionId=SLB2306720180428101122516017&AuthInfo=zGn%2FimY3Qu1C2sZjRr%2BmjWu7NqSwZODHigTdOqqI5nAEBpWoVt3xd4%2BtVEARmGhFDY6CmNmjOSCvqbv%2Fd3PrCs3COYRQIAxoIEEl2CoNB0KpkT3d1TUCZYEO3LyqEHdb&m3u8_level=2&terminal_flag=0&ispcode=8,tvming-HuNanPublic
+
+
+
+
+
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangzhongwen.png",group-title="凤凰卫视",凤凰卫视
 http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangzixunhd.png",group-title="凤凰卫视",凤凰资讯
