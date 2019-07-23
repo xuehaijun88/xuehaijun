@@ -826,7 +826,7 @@ http://223.110.241.139:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
 http://223.110.241.139:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-3.png",group-title="CCTV（移动）",CCTV3-HD
 http://223.110.241.139:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ/
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-4.png",group-title="CCTV（移动）,CCTV4-HD
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-4.png",group-title="CCTV（移动）",CCTV4-HD
 http://223.110.241.139:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ/
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-5.png",group-title="CCTV（移动）",CCTV5-HD
 http://223.110.241.139:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/
@@ -923,6 +923,10 @@ http://112.50.243.8/PLTV/88888888/224/3221225855/1.m3u8
 http://39.134.65.162/PLTV/88888888/224/3221225577/index.m3u8
 
 
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/diyicaijinghd.png",group-title="IPTV",上海第一财经
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/huanyuzonghe.png",group-title="IPTV",寰宇地理
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225911/1.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/beijingkaku.png",group-title="IPTV",卡酷少儿
 http://zb.lxb666.xyz/gzzb.php?id=kaku
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingyingkatong.png",group-title="IPTV", 金鹰卡通
@@ -950,10 +954,6 @@ http://zb.lxb666.xyz/gzzb.php?id=yyfd
 http://zb.lxb666.xyz/gzzb.php?id=yxfyhd
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/sihaodiaoyu.png",group-title="IPTV",四海垂钓
 http://zb.lxb666.xyz/gzzb.php?id=shdy
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/diyicaijinghd.png",group-title="IPTV",上海第一财经
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/huanyuzonghe.png",group-title="IPTV",寰宇地理
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225911/1.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dvshenghuo.png",group-title="IPTV",生活时尚
 http://zb.lxb666.xyz/gzzb.php?id=shsshd
 #EXTINF:0 tvg-logo="http://static2.tvzhe.com/channel/logo/SITV14.jpg",group-title="IPTV",东方财经
