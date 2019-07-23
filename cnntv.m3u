@@ -1284,9 +1284,22 @@ http://v.wangjiuling.com/tv?sv=gaBWAlvcEyu3EI6JnDOa
 http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA93C58U30976010K77584345I9C6AA6DFPBM32250AEV1044EZ33519WE2392C52D81&playtoken=ABCDEFGHI&programid=4200000058.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/henanweishi.png",group-title="卫视（备用）",河南卫视HD
 http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA93C58U30976010K77584345I9C6AA6DFPBM32250AEV1044EZ33519WE2392C52D81&playtoken=ABCDEFGHI&programid=4200000312.m3u8
-#EXTINF:-1,兵团卫视
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/bingtuanweishi.png",group-title="卫视（备用）",兵团卫视
 http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA93C58U30976010K77584345I9C6AA6DFPBM32250AEV1044EZ33519WE2392C52D81&playtoken=ABCDEFGHI&programid=4200000189.m3u8
 
+
+#EXTINF:-1,tvg-logo="http://www.wangjiuling.com/img/shenzhendushi.png",group-title="深圳",深圳都市
+http://www.szmgiptv.com:14436/hls/8.m3u8
+#EXTINF:-1,tvg-logo="http://www.wangjiuling.com/img/shenzhentiyujiankang.png",group-title="深圳",深圳体育健康
+http://www.szmgiptv.com:14436/hls/10.m3u8
+#EXTINF:-1,tvg-logo="http://www.wangjiuling.com/img/shenzhendianshiju.png",group-title="深圳",深圳电视剧
+http://www.szmgiptv.com:14436/hls/11.m3u8
+#EXTINF:-1,tvg-logo="http://www.wangjiuling.com/img/shenzhenshaoer.png",group-title="深圳",深圳少儿
+http://www.szmgiptv.com:14436/hls/21.m3u8
+#EXTINF:-1,tvg-logo="http://www.wangjiuling.com/img/shenzhenyule.png",group-title="深圳",深圳娱乐
+http://www.szmgiptv.com:14436/hls/22.m3u8
+#EXTINF:-1,tvg-logo="http://www.wangjiuling.com/img/shenzhengonggong.png",group-title="深圳",深圳公共
+http://www.szmgiptv.com:14436/hls/23.m3u8
 
 
 
