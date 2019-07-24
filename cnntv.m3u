@@ -1071,6 +1071,8 @@ http://161.0.157.6/PLTV/88888888/224/3221227026/01.m3u8
 http://rous.aicloud.ro/playlist.m3u8?s=vlog&ch=5614
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkc-xw.png",group-title="不翻能看系列",有线新闻台
 http://104.233.205.110:888/v/ICABLENews.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/xingkongweishi.png",group-title="不翻能看系列",星空卫视
+http://218.202.220.2:5000/nn_live.ts?id=STARTV
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Viu.png",group-title="不翻能看系列",VIUTV
 http://v.wangjiuling.com/tv?sv=eoAcR0hNrHR4oa9a
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/RHK-31a.png",group-title="不翻能看系列",RHK-31
@@ -1221,8 +1223,8 @@ http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangdianying.png",group-title="凤凰卫视",凤凰电影
 rtmp://58.200.131.2:1935/livetv/fhdy
-
-
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangdianying.png",group-title="凤凰卫视",凤凰电影
+http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/beijingweishia.png",group-title="卫视（备用）",北京卫视HD
 http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA93C58U30976010K77584345I9C6AA6DFPBM32250AEV1044EZ33519WE2392C52D81&playtoken=ABCDEFGHI&programid=4200000147.m3u8
