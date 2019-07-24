@@ -1073,6 +1073,8 @@ http://104.233.205.110:888/v/ICABLENews.m3u8
 http://v.wangjiuling.com/tv?sv=eoAcR0hNrHR4oa9a
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/RHK-31a.png",group-title="不翻能看系列",RHK-31
 http://v.wangjiuling.com/tv?sv=Jr3mXaaHpQfw2IvJxMLX
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/220px-RTHK_TV_32.svg.png",group-title="不翻能看系列",港台電視 32
+http://104.233.205.110:888/v/ks.m3u8?id=73d6094006fa4979aab0e214840e8321
 #EXTINF:0 tvg-logo="https://s11.mogucdn.com/mlcdn/fe720b/190311_6h8k0jefh1fjg3lff98ifl4dghb25_240x149.jpg",group-title="不翻能看系列",香港开电视
 http://v.wangjiuling.com/tv?sv=V8YiVNS79FDPMerJ
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/xingweidianying.png",group-title="不翻能看系列",星卫电影台
@@ -1169,7 +1171,7 @@ http://v.wangjiuling.com/tv?sv=b3w0a03sNbIQJINQbLXL
 
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/220px-RTHK_TV_32.svg.png",group-title="不翻能看系列",港台電視 32
+
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbwxcj.png",group-title="不翻能看系列",TVB 财经
 http://bytedance.hdllive.ks-cdn.com/live/34de4d3fe19e4c53a3642b63d815acea.flv
 #EXTINF:-1 tvg-logo="https://www.filmcommission.taipei/Upload/Taipeff/CompanyData/a71e651bceb9487.jpg" group-title="不翻能看系列", CNEX 紀實頻道
