@@ -1063,7 +1063,7 @@ http://play.eelly.com/live/3344_prod_1563935811.m3u8
 http://devlivepull.migucloud.com/live/02cb7bf5d03048a0a0a18fc34af28c56/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbohd.png",group-title="不翻能看系列",HBO HD
 http://v.wangjiuling.com/tv?sv=XjOtPNcRncJb2poq
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbohd.png",group-title="不翻能看系列",HBO 2
+#EXTINF:0 tvg-logo="",group-title="不翻能看系列",HBO 2
 http://161.0.157.6/PLTV/88888888/224/3221227026/01.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbohd.png",group-title="不翻能看系列",HBO 3
 http://rous.aicloud.ro/playlist.m3u8?s=vlog&ch=5614
@@ -1316,20 +1316,3 @@ http://live-stream.kksmg.com/hls/ysrw8d72fe92_69e959eb988a8bcb17405bef/playlist.
 
 #EXTINF:-1 ,tvg-id="上海新闻综合" tvg-logo="http://iplaytv.oss-cn-beijing.aliyuncs.com/shdst.jpg" group-title="上海",上海艺术人文
 http://live-stream.kksmg.com/hls/ysrw8d72fe92_69e959eb988a8bcb17405bef/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
