@@ -1049,8 +1049,6 @@ http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
 http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="不翻能看系列",翡翠台
-http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="不翻能看系列",翡翠台HD
 http://v.wangjiuling.com/tv?sv=9eMuvJCywCK9OEzz
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbPearl.png",group-title="不翻能看系列",TVB明珠台
@@ -1101,10 +1099,6 @@ http://61.216.10.122:4046/VideoInput/play.ts
 http://61.216.10.122:4015/VideoInput/play.ts
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/disney.png",group-title="不翻能看系列",Disney Channel Asia HD
 http://61.216.10.122:4019/VideoInput/play.ts
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/malaysiatv8.png",group-title="不翻能看系列",8TV
-http://bestiptv.info:8080/live//5Jba87Q7vq/DFVFWF2KLg//214877.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/malaysiantv7.png",group-title="不翻能看系列",ntv7
-http://bestiptv.info:8080/live//5Jba87Q7vq/DFVFWF2KLg//214853.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/8tva.png",group-title="不翻能看系列",Channel 8
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/5tv.png",group-title="不翻能看系列",Channel 5
@@ -1173,11 +1167,6 @@ http://v.wangjiuling.com/tv?sv=OnzXyXQtlgTmzSNLXEWE
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/ShuangXingtai.png",group-title="不翻能看系列",双星 Shuang Xing
 http://v.wangjiuling.com/tv?sv=b3w0a03sNbIQJINQbLXL
 
-
-
-
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbwxcj.png",group-title="不翻能看系列",TVB 财经
-http://bytedance.hdllive.ks-cdn.com/live/34de4d3fe19e4c53a3642b63d815acea.flv
 #EXTINF:-1 tvg-logo="https://www.filmcommission.taipei/Upload/Taipeff/CompanyData/a71e651bceb9487.jpg" group-title="不翻能看系列", CNEX 紀實頻道
 http://220.158.149.14:9999/live/TV00000000000000000083@HHZT;LIVE
 #EXTINF:-1 tvg-logo="http://sport.videoland.com.tw/images/spt_logo-2.png" group-title="不翻能看系列", 緯來體育
