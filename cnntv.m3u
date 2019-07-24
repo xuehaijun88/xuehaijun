@@ -1061,6 +1061,8 @@ http://v.wangjiuling.com/tv?sv=zvVUqLi7AFVNxJKY
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbxinghe.png",group-title="不翻能看系列",TVB星河
 http://devlivepull.migucloud.com/live/0427602ee24847c690effbe91d3d9565/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbxinghe.png",group-title="不翻能看系列",TVB星河
+http://devlivepull.migucloud.com/live/0427602ee24847c690effbe91d3d9565/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbohd.png",group-title="不翻能看系列",HBO HD
 http://v.wangjiuling.com/tv?sv=XjOtPNcRncJb2poq
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbohd.png",group-title="不翻能看系列",HBO 2
@@ -1071,6 +1073,8 @@ http://rous.aicloud.ro/playlist.m3u8?s=vlog&ch=5614
 http://104.233.205.110:888/v/ICABLENews.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Viu.png",group-title="不翻能看系列",VIUTV
 http://v.wangjiuling.com/tv?sv=eoAcR0hNrHR4oa9a
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/RHK-31a.png",group-title="不翻能看系列",RHK-31
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/RHK-31a.png",group-title="不翻能看系列",RHK-31
 http://v.wangjiuling.com/tv?sv=Jr3mXaaHpQfw2IvJxMLX
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/220px-RTHK_TV_32.svg.png",group-title="不翻能看系列",港台電視 32
