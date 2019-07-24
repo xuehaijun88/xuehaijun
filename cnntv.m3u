@@ -114,12 +114,6 @@ http://cdn8.easylifewell.com/fhzx.m3u8
 http://124.232.231.247:6610/000000001001/201500000231/index.m3u8?
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangzhongwen.png",group-title="IPTV",凤凰卫视
 http://124.232.231.247:6610/000000001001/201500000230/index.m3u8?
-
-
-
-
-
-
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dushijuchang.png",group-title="IPTV",都市剧场
 http://v.wangjiuling.com/tv?sv=6obEdJdSm2S30ID9qjJB
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/huanxiaojuchang.png",group-title="IPTV",欢笑剧场
@@ -160,8 +154,6 @@ http://v.wangjiuling.com/tv?sv=2lXJdMBuMwuqdU0YO397
 http://v.wangjiuling.com/tv?sv=V49pam6CVNS79FDP1vEm
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jishi.png",group-title="IPTV",上海纪实
 http://v.wangjiuling.com/tv?sv=P341aJOuaguW6s2zLWpb
-
-
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",精彩点播01
 http://v.wangjiuling.com/tv?sv=byqUNbIQJINQbLXL
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",精彩点播02
@@ -287,7 +279,6 @@ http://hls-ott-zhibo.wasu.tv/live/273/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",国外动作HD
 http://hls-ott-zhibo.wasu.tv/live/305/index.m3u8
 
-
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",大陆高清电影[1280*720]
 http://tx.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",香港高清电影[1280*640]
@@ -379,9 +370,6 @@ http://alhls-cdn.zhanqi.tv/zqlive/264417_dPUXM.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",战旗影视-23[1280*720]
 http://alhls-cdn.zhanqi.tv/zqlive/264147_VU1iK.m3u8
 
-
-
-
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/guangdongweishi.png",group-title="广东",廣東衛視
 http://v.wangjiuling.com/tv?sv=xV4IrVUowHdgNpwp
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/guangdongzhujiang.png",group-title="广东",廣東珠江
@@ -432,7 +420,6 @@ http://v.wangjiuling.com/tv?sv=mJyTx7Hy7CqJ1979
 http://v.wangjiuling.com/tv?sv=AEehWOF6yc0O1DQD
 #EXTINF:0 tvg-logo="",group-title="河北",河北都市
 http://v.wangjiuling.com/tv?sv=0JgteNT0AhoQmv2v
-
 
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="翻墙区（港台）",TVB翡翠台
 http://v.wangjiuling.com/tv?sv=JAmspQfXeivRwn1O
@@ -1079,6 +1066,8 @@ http://v.wangjiuling.com/tv?sv=Jr3mXaaHpQfw2IvJxMLX
 http://104.233.205.110:888/v/ks.m3u8?id=73d6094006fa4979aab0e214840e8321
 #EXTINF:0 tvg-logo="https://s11.mogucdn.com/mlcdn/fe720b/190311_6h8k0jefh1fjg3lff98ifl4dghb25_240x149.jpg",group-title="不翻能看系列",香港开电视
 http://v.wangjiuling.com/tv?sv=V8YiVNS79FDPMerJ
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhongtianyule.png",group-title="不翻能看系列",中天娱乐 CTI Entertaiment
+http://v.wangjiuling.com/tv?sv=pgjPmzluqlirNCdNw7VR
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/xingweidianying.png",group-title="不翻能看系列",星卫电影台
 http://devlivepull.migucloud.com/live/91d75decc2204d46956c80c7e1a57f4b/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/meiyadianyingtai.png",group-title="不翻能看系列",美亚电影台
@@ -1087,8 +1076,6 @@ http://devlivepull.migucloud.com/live/e00e7b2868644d11bf7747b4e6edc1d8/playlist.
 http://61.216.10.122:4075/VideoInput/play.ts
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsengxinwen.png",group-title="不翻能看系列",东森新闻
 http://61.216.10.122:4078/VideoInput/play.ts
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhongtianyule.png",group-title="不翻能看系列",中天娱乐 CTI Entertaiment
-http://v.wangjiuling.com/tv?sv=pgjPmzluqlirNCdNw7VR
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhongtianyule.png",group-title="不翻能看系列",中天娱乐
 http://122.146.68.116:4007/VideoInput/play.ts
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/national.png",group-title="不翻能看系列",国家地理
@@ -1103,8 +1090,6 @@ http://61.216.10.122:4019/VideoInput/play.ts
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/5tv.png",group-title="不翻能看系列",Channel 5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
-
-
 
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/minshi.png",group-title="不翻能看系列",民視 HD
 http://v.wangjiuling.com/tv?sv=QYDdab8SAoFEPcJ8nMzQ
@@ -1167,11 +1152,11 @@ http://v.wangjiuling.com/tv?sv=OnzXyXQtlgTmzSNLXEWE
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/ShuangXingtai.png",group-title="不翻能看系列",双星 Shuang Xing
 http://v.wangjiuling.com/tv?sv=b3w0a03sNbIQJINQbLXL
 
-#EXTINF:-1 tvg-logo="https://www.filmcommission.taipei/Upload/Taipeff/CompanyData/a71e651bceb9487.jpg" group-title="不翻能看系列", CNEX 紀實頻道
+#EXTINF:0 tvg-logo="https://www.filmcommission.taipei/Upload/Taipeff/CompanyData/a71e651bceb9487.jpg" group-title="不翻能看系列", CNEX 紀實頻道
 http://220.158.149.14:9999/live/TV00000000000000000083@HHZT;LIVE
-#EXTINF:-1 tvg-logo="http://sport.videoland.com.tw/images/spt_logo-2.png" group-title="不翻能看系列", 緯來體育
+#EXTINF:0 tvg-logo="http://sport.videoland.com.tw/images/spt_logo-2.png" group-title="不翻能看系列", 緯來體育
 http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
-#EXTINF:-1 tvg-logo="http://wxtv.asia/web/images/all/logoSm.jpg" group-title="不翻能看系列",  唯心頻道
+#EXTINF:0 tvg-logo="http://wxtv.asia/web/images/all/logoSm.jpg" group-title="不翻能看系列",  唯心頻道
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 #EXTINF:0 tvg-logo="",group-title="不翻能看系列",全美電視
 https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
@@ -1310,8 +1295,7 @@ http://v.wangjiuling.com/tv?sv=KvYxXJQhVYSDycrwqXpO
 http://live-stream.kksmg.com/hls/stv7af3c4ee_5ed4462f9ba057dadf59f2e3/playlist.m3u8
 #EXTINF:-1 ,tvg-id="上海新闻综合" tvg-logo="http://iplaytv.oss-cn-beijing.aliyuncs.com/shdst.jpg" group-title="上海",上海外语频道ICS
 http://live-stream.kksmg.com/hls/wypd6a3b86be_c4eb57c5b5c8573f77a00e49/playlist.m3u8
-
-#EXTINF:0 ,tvg-id="上海新闻综合" tvg-logo="http://iplaytv.oss-cn-beijing.aliyuncs.com/shdst.jpg" group-title="上海",上海艺术人文
+#EXTINF:-1 ,tvg-id="上海新闻综合" tvg-logo="http://iplaytv.oss-cn-beijing.aliyuncs.com/shdst.jpg" group-title="上海",上海艺术人文
 http://live-stream.kksmg.com/hls/ysrw8d72fe92_69e959eb988a8bcb17405bef/playlist.m3u8
 
 #EXTINF:-1 ,tvg-id="上海新闻综合" tvg-logo="http://iplaytv.oss-cn-beijing.aliyuncs.com/shdst.jpg" group-title="上海",上海艺术人文
