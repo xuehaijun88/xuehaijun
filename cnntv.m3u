@@ -214,6 +214,12 @@ http://js.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687
 http://tx.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1.m3u8
 ##EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",迪士尼轮播
 http://tx.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274560-10057-A-1525417691-1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",李连杰电影
+http://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",刘德华电影
+http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",林正英电影
+http://js.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_2000.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",周星驰电影
 http://js.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="轮播",华数古装
@@ -767,8 +773,10 @@ http://61.58.60.230:9319/live/243.m3u8
 http://61.58.60.230:9319/live/244.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FX.us.png" group-title="翻墙区（港台）", FX 中文電影臺
 http://113.196.177.81:8885/VideoInput/play.ts
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tansuo.png",group-title="翻墙区（港台）",Discovery Asia
+http://113.196.177.81:8896/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="翻墙区（港台）", 國家地理
-http://113.196.177.81:8890/VideoInput/play.ts
+http://61.216.10.122:4020/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="http://www.cns.net.tw/web/upload/20160908173455yhvHFdR.jpg" group-title="翻墙区（港台）", 好萊塢電影
 http://125.227.210.37:8909/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/HBO.us.png" group-title="翻墙区（港台）", HBO中文電影
@@ -1243,17 +1251,17 @@ http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accessto
 http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA93C58U30976010K77584345I9C6AA6DFPBM32250AEV1044EZ33519WE2392C52D81&playtoken=ABCDEFGHI&programid=4200000189.m3u8
 
 
-#EXTINF:-1,tvg-logo="http://www.wangjiuling.com/img/shenzhendushi.png",group-title="深圳",深圳都市
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/shenzhendushi.png",group-title="深圳",深圳都市
 http://www.szmgiptv.com:14436/hls/8.m3u8
-#EXTINF:-1,tvg-logo="http://www.wangjiuling.com/img/shenzhentiyujiankang.png",group-title="深圳",深圳体育健康
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/shenzhentiyujiankang.png",group-title="深圳",深圳体育健康
 http://www.szmgiptv.com:14436/hls/10.m3u8
-#EXTINF:-1,tvg-logo="http://www.wangjiuling.com/img/shenzhendianshiju.png",group-title="深圳",深圳电视剧
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/shenzhendianshiju.png",group-title="深圳",深圳电视剧
 http://www.szmgiptv.com:14436/hls/11.m3u8
-#EXTINF:-1,tvg-logo="http://www.wangjiuling.com/img/shenzhenshaoer.png",group-title="深圳",深圳少儿
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/shenzhenshaoer.png",group-title="深圳",深圳少儿
 http://www.szmgiptv.com:14436/hls/21.m3u8
-#EXTINF:-1,tvg-logo="http://www.wangjiuling.com/img/shenzhenyule.png",group-title="深圳",深圳娱乐
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/shenzhenyule.png",group-title="深圳",深圳娱乐
 http://www.szmgiptv.com:14436/hls/22.m3u8
-#EXTINF:-1,tvg-logo="http://www.wangjiuling.com/img/shenzhengonggong.png",group-title="深圳",深圳公共
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/shenzhengonggong.png",group-title="深圳",深圳公共
 http://www.szmgiptv.com:14436/hls/23.m3u8
 
 
