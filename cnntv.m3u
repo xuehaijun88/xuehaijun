@@ -114,6 +114,8 @@ http://cdn8.easylifewell.com/fhzx.m3u8
 http://124.232.231.247:6610/000000001001/201500000231/index.m3u8?
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangzhongwen.png",group-title="IPTV",凤凰卫视
 http://124.232.231.247:6610/000000001001/201500000230/index.m3u8?
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/guangdongtiyu.png",group-title="IPTV",广东体育
+,http://sk.live.otvcloud.com/otv/skcc/live/channel34/index.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dushijuchang.png",group-title="IPTV",都市剧场
 http://v.wangjiuling.com/tv?sv=6obEdJdSm2S30ID9qjJB
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/huanxiaojuchang.png",group-title="IPTV",欢笑剧场
@@ -699,7 +701,12 @@ http://v.wangjiuling.com/tv?sv=LAWrQBMHLaugPtv3zqNX
 http://v.wangjiuling.com/tv?sv=zQN1oV2sqLi7AFVjpnya
 
 
-
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbohd.png",group-title="测试频道",HBO HD
+http://iptvpro.premium-tv.media:8789/live/DREAM187/3685321733/42498.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbohd.png",group-title="测试频道",HBO 2
+http://iptvpro.premium-tv.media:8789/live/DREAM187/3685321733/42499.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbohd.png",group-title="测试频道",HBO 3
+http://iptvpro.premium-tv.media:8789/live/DREAM187/3685321733/42500.m3u8
 #EXTINF:0 tvg-logo="",group-title="测试频道",无线新闻[1920*1080]
 http://202.40.202.173:8000/main
 #EXTINF:0 tvg-logo="",group-title="测试频道",东森新闻HD[1920*1080]
@@ -1136,8 +1143,6 @@ http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
 
 
 
-
-
 #EXTINF:-1,tvg-logo="http://www.wangjiuling.com/img/hunanweishi.png",group-title="湖南",湖南国际
 http://124.232.231.246:6610/000000001001/201600020001/1400.m3u8?version=v1.0&IASHttpSessionId=SLB2306720180428101122516017&AuthInfo=zGn%2FimY3Qu1C2sZjRr%2BmjWu7NqSwZODHigTdOqqI5nAEBpWoVt3xd4%2BtVEARmGhFDY6CmNmjOSCvqbv%2Fd3PrCs3COYRQIAxoIEEl2CoNB0KpkT3d1TUCZYEO3LyqEHdb&m3u8_level=2&terminal_flag=0&ispcode=8,tvming-HuNanWorld
 #EXTINF:-1,tvg-logo="http://www.wangjiuling.com/img/hunanjingshi.png",group-title="湖南",湖南经视
@@ -1167,14 +1172,6 @@ http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 rtmp://58.200.131.2:1935/livetv/fhdy
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangdianying.png",group-title="凤凰卫视",凤凰电影
 http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
-
-
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbohd.png",group-title="测试频道",HBO HD
-http://iptvpro.premium-tv.media:8789/live/DREAM187/3685321733/42498.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbohd.png",group-title="测试频道",HBO 2
-http://iptvpro.premium-tv.media:8789/live/DREAM187/3685321733/42499.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbohd.png",group-title="测试频道",HBO 3
-http://iptvpro.premium-tv.media:8789/live/DREAM187/3685321733/42500.m3u8
 
 
 
