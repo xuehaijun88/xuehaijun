@@ -1034,6 +1034,8 @@ http://202.40.202.173:8000/main
 http://104.233.205.110:888/v/ICABLENews.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/xingkongweishi.png",group-title="不翻能看系列",星空卫视
 http://218.202.220.2:5000/nn_live.ts?id=STARTV
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/wuyazhou.png",group-title="不翻能看系列",武俠
+http://weblive.hebtv.com/live/0/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbohd.png",group-title="不翻能看系列",HBO HD
 http://v.wangjiuling.com/tv?sv=XjOtPNcRncJb2poq
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbohd.png",group-title="不翻能看系列",HBO 2
@@ -1060,18 +1062,11 @@ http://61.216.10.122:4075/VideoInput/play.ts
 http://61.216.10.122:4078/VideoInput/play.ts
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhongtianyule.png",group-title="不翻能看系列",中天娱乐
 http://122.146.68.116:4007/VideoInput/play.ts
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/national.png",group-title="不翻能看系列",国家地理
-http://61.216.10.122:4020/VideoInput/play.ts
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tansuo.png",group-title="不翻能看系列",探索亚洲
-http://61.216.10.122:4046/VideoInput/play.ts
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/foxnews.png",group-title="不翻能看系列",FOX
 http://61.216.10.122:4015/VideoInput/play.ts
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/disney.png",group-title="不翻能看系列",Disney Channel Asia HD
 http://61.216.10.122:4019/VideoInput/play.ts
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/8tva.png",group-title="不翻能看系列",Channel 8
-https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/5tv.png",group-title="不翻能看系列",Channel 5
-https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+
 
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/minshi.png",group-title="不翻能看系列",民視 HD
 http://v.wangjiuling.com/tv?sv=QYDdab8SAoFEPcJ8nMzQ
@@ -1141,7 +1136,7 @@ http://60.251.37.44:8080/live/bbc1033.m3u8
 http://220.158.149.14:9999/live/TV00000000000000000083@HHZT;LIVE
 #EXTINF:0 tvg-logo="http://sport.videoland.com.tw/images/spt_logo-2.png" group-title="不翻能看系列", 緯來體育
 http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
-#EXTINF:0 tvg-logo="http://wxtv.asia/web/images/all/logoSm.jpg" group-title="不翻能看系列",  唯心頻道
+#EXTINF:0 tvg-logo="http://wxtv.asia/web/images/all/logoSm.jpg" group-title="不翻能看系列",唯心頻道
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 #EXTINF:0 tvg-logo="",group-title="不翻能看系列",全美電視
 https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
@@ -1167,7 +1162,22 @@ http://124.232.231.246:6610/000000001001/201600020006/1400.m3u8?version=v1.0&IAS
 http://124.232.231.246:6610/000000001001/201600020007/1400.m3u8?version=v1.0&IASHttpSessionId=SLB2306720180428101122516017&AuthInfo=zGn%2FimY3Qu1C2sZjRr%2BmjWu7NqSwZODHigTdOqqI5nAEBpWoVt3xd4%2BtVEARmGhFDY6CmNmjOSCvqbv%2Fd3PrCs3COYRQIAxoIEEl2CoNB0KpkT3d1TUCZYEO3LyqEHdb&m3u8_level=2&terminal_flag=0&ispcode=8,tvming-HuNanPublic
 
 
-
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/5tv.png",group-title="新加坡",Ch 5 backup2
+http://v.wangjiuling.com/tv?sv=RWK901LseoTKXcabpxzB
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/suria.png",group-title="新加坡",Suria
+http://v.wangjiuling.com/tv?sv=7oOAj2PFqJib6CBWgnx9
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/cna.png",group-title="新加坡",CNA
+http://v.wangjiuling.com/tv?sv=pgjPbqjhqlirNCdNw7VE
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/utv.png",group-title="新加坡",Channel U
+http://v.wangjiuling.com/tv?sv=OnzXvwxHlgTmzSNW0gBr
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/miaomi.png",group-title="新加坡",miao mi
+http://v.wangjiuling.com/tv?sv=vgymP3ltv9COQfWQO3bX
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/8tva.png",group-title="新加坡",Channel 8
+http://v.wangjiuling.com/tv?sv=OnzXyA0IlgTmzSNW0gBr
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/8tva.png",group-title="新加坡",ch 8
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/5tv.png",group-title="新加坡",Ch 5
+https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 
 
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangzhongwen.png",group-title="凤凰卫视",凤凰卫视
