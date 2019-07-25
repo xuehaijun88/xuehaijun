@@ -993,7 +993,7 @@ http://live.streamingfast.net/osmflivech44.m3u8
 http://v.wangjiuling.com/tv?sv=9OdwRBOUvJCywCKQ2qWp
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvn.png",group-title="日韩",TVN Korea
 http://v.wangjiuling.com/tv?sv=M0BjQAVs8MI9oflEqD74
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvn.png",group-title="港台",tvN
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvn.png",group-title="日韩",tvN
 http://v.wangjiuling.com/tv?sv=BbqDXvvHbqHg7tB9EgMo
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvn.png",group-title="日韩",TVN
 http://v.wangjiuling.com/tv?sv=2lXJgyxcMwuqdU0y9vw4
