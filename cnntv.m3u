@@ -1132,7 +1132,12 @@ http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 #EXTINF:0 tvg-logo="",group-title="不翻能看系列",环球电视台HD
 http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
-
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbohd.png",group-title="不翻能看系列",HBO HD
+http://iptvpro.premium-tv.media:8789/live/DREAM187/3685321733/42498.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbohd.png",group-title="不翻能看系列",HBO 2
+http://iptvpro.premium-tv.media:8789/live/DREAM187/3685321733/42499.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbohd.png",group-title="不翻能看系列",HBO 3
+http://iptvpro.premium-tv.media:8789/live/DREAM187/3685321733/42500.m3u8
 
 
 
