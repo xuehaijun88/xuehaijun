@@ -1024,7 +1024,7 @@ http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playli
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbhudongxinwena.png",group-title="不翻能看系列",TVB无线新闻台
 http://107.148.215.139:888/v/inews.php?id=inews
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkc-xw.png",group-title="不翻能看系列",有线新闻台
-http://devlivepull.migucloud.com/live/ba1dec56de2b4a92b45b5597851ab077/playlist.m3u8
+http://39.105.0.53/a2/hklive.m3u8?id=xgyxsw&tm=1563079342&ke
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/xingkongweishi.png",group-title="不翻能看系列",星空卫视
 http://218.202.220.2:5000/nn_live.ts?id=STARTV
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/wuyazhou.png",group-title="不翻能看系列",武俠
