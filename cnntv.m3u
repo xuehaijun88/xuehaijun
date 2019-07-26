@@ -716,24 +716,6 @@ http://iptvpro.premium-tv.media:8789/live/DREAM187/3685321733/42499.m3u8
 http://iptvpro.premium-tv.media:8789/live/DREAM187/3685321733/42500.m3u8
 #EXTINF:0 tvg-logo="",group-title="测试频道",无线新闻[1920*1080]
 http://202.40.202.173:8000/main
-#EXTINF:0 tvg-logo="",group-title="测试频道",东森新闻HD[1920*1080]
-http://61.216.10.122:4078/VideoInput/play.ts
-#EXTINF:0 tvg-logo="",group-title="测试频道",TVBS新闻[854*480]
-http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
-#EXTINF:0 tvg-logo="",group-title="测试频道",三立新闻[854*480]
-http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
-#EXTINF:0 tvg-logo="",group-title="测试频道",开电视
-http://devlivepull.migucloud.com/live/4fcb3a0cda6a458f99c6c7e5e5d0dd93/playlist.m3u8
-#EXTINF:0 tvg-logo="",group-title="测试频道",八大综合[1280*720]
-http://60.251.37.44:8080/live/gtv7659.m3u8
-#EXTINF:0 tvg-logo="",group-title="测试频道",中天综合[1280*720]
-http://60.250.69.26:8080/live/cti9785.m3u8
-#EXTINF:0 tvg-logo="",group-title="测试频道",八大第一[1280*720]
-http://60.251.37.44:8080/live/gtvfirst7659.m3u8
-#EXTINF:0 tvg-logo="",group-title="测试频道",三立都會[1280*720]
-http://60.250.69.26:8080/live/setcity9785.m3u8
-#EXTINF:0 tvg-logo="",group-title="测试频道",緯來娛樂[1280*720]
-http://60.250.69.26:8080/live/vlhappy8976.m3u8
 #EXTINF:0 tvg-logo="",group-title="测试频道",博斯魅力
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 #EXTINF:0 tvg-logo="",group-title="测试频道",HBO[785*576]
@@ -1069,10 +1051,25 @@ http://61.216.10.122:4075/VideoInput/play.ts
 http://61.216.10.122:4078/VideoInput/play.ts
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhongtianyule.png",group-title="不翻能看系列",中天娱乐
 http://122.146.68.116:4007/VideoInput/play.ts
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbsxinwen.png",group-title="不翻能看系列",TVBS新闻
+http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/sanlixinwen.png",group-title="不翻能看系列",三立新闻
+http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/gtvbadazonghetai.png",group-title="不翻能看系列",八大综合
+http://60.251.37.44:8080/live/gtv7659.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhongtianzonghe.png",group-title="不翻能看系列",中天综合
+http://60.250.69.26:8080/live/cti9785.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/gtvbadadiyitai.png",group-title="不翻能看系列",八大第一
+http://60.251.37.44:8080/live/gtvfirst7659.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/sanliduhuitai.png",group-title="不翻能看系列",三立都會
+http://60.250.69.26:8080/live/setcity9785.m3u8
+#EXTINF:0 tvg-logo="http://chuantu.xyz/t6/702/1564141580x992245926.png",group-title="不翻能看系列",緯來育乐
+http://60.250.69.26:8080/live/vlhappy8976.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/foxnews.png",group-title="不翻能看系列",FOX
 http://61.216.10.122:4015/VideoInput/play.ts
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/disney.png",group-title="不翻能看系列",Disney Channel Asia HD
 http://61.216.10.122:4019/VideoInput/play.ts
+
 
 
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/minshi.png",group-title="不翻能看系列",民視 HD
@@ -1281,9 +1278,14 @@ http://www.szmgiptv.com:14436/hls/22.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/shenzhengonggong.png",group-title="深圳",深圳公共
 http://www.szmgiptv.com:14436/hls/23.m3u8
 
-
-
-
+#EXTINF:0 tvg-logo="",group-title="成都",CDTV-1
+rtmp://182.140.142.111:1935/live/cdtv1
+#EXTINF:0 tvg-logo="",group-title="成都",CDTV-2
+rtmp://182.140.142.111:1935/live/cdtv2
+#EXTINF:0 tvg-logo="",group-title="成都",CDTV-3
+rtmp://182.140.142.111:1935/live/cdtv3
+#EXTINF:0 tvg-logo="",group-title="成都",CDTV-5
+rtmp://182.140.142.111:1935/live/cdtv5
 
 
 
