@@ -104,8 +104,10 @@ http://zb.lxb666.xyz/gzzb.php?id=qsjlhd
 http://zb.lxb666.xyz/gzzb.php?id=qjshd
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/national.png",group-title="IPTV",国家地理
 http://61.216.10.122:4020/VideoInput/play.ts
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tansuo.png",group-title="IPTV",探索亚洲
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tansuo.png" group-title="IPTV",探索亚洲
 http://61.216.10.122:4046/VideoInput/play.ts
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jishipindao.png" group-title="IPTV",全纪实（移动）
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225911/1.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/guangdongtiyu.png",group-title="IPTV",广东体育
 http://sk.live.otvcloud.com/otv/skcc/live/channel34/index.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dushijuchang.png",group-title="IPTV",都市剧场
@@ -897,8 +899,6 @@ http://zb.lxb666.xyz/gzzb.php?id=shdy
 http://zb.lxb666.xyz/gzzb.php?id=shsshd
 #EXTINF:0 tvg-logo="http://static2.tvzhe.com/channel/logo/SITV14.jpg",group-title="IPTV",东方财经
 http://zb.lxb666.xyz/gzzb.php?id=dfcjpd
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/huanyuzonghe.png",group-title="IPTV",寰宇地理
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225911/1.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianzitiyu.png",group-title="IPTV",vspn全电竞
 http://hls-ott-zhibo.wasu.tv/live/273/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/youyoubaobei.png",group-title="IPTV",优优宝贝
