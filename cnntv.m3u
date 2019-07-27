@@ -110,6 +110,10 @@ http://61.216.10.122:4046/VideoInput/play.ts
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225911/1.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/guangdongtiyu.png",group-title="IPTV",广东体育
 http://sk.live.otvcloud.com/otv/skcc/live/channel34/index.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/natgeohd.png",group-title="IPTV",Nat Geo HD
+http://v.wangjiuling.com/tv?sv=LAWrQBMHLaugPtva6lOR
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/natgeowild.png",group-title="IPTV",Nat Geo Wild HD
+http://v.wangjiuling.com/tv?sv=zQN1oV2sqLi7AFVNxJKY
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dushijuchang.png",group-title="IPTV",都市剧场
 http://v.wangjiuling.com/tv?sv=6obEdJdSm2S30ID9qjJB
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/huanxiaojuchang.png",group-title="IPTV",欢笑剧场
@@ -150,6 +154,7 @@ http://v.wangjiuling.com/tv?sv=2lXJdMBuMwuqdU0YO397
 http://v.wangjiuling.com/tv?sv=V49pam6CVNS79FDP1vEm
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jishi.png",group-title="IPTV",上海纪实
 http://v.wangjiuling.com/tv?sv=P341aJOuaguW6s2zLWpb
+
 
 #EXTINF:0 tvg-logo="http://chuantu.xyz/t6/702/1564086821x977013264.png",group-title="轮播",精彩点播01
 http://v.wangjiuling.com/tv?sv=byqUNbIQJINQbLXL
@@ -958,7 +963,20 @@ http://live.streamingfast.net/osmflivech40.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/goodtv.png",group-title="GOOD好消息台",GOOD烤箱读书会
 http://live.streamingfast.net/osmflivech44.m3u8
 
-
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/discoveryhd.png",group-title="记录探索",求索记录
+http://zb.lxb666.xyz/gzzb.php?id=qsjlhd
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jishipindao.png" group-title="记录探索",全纪实
+http://zb.lxb666.xyz/gzzb.php?id=qjshd
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/national.png",group-title="记录探索",国家地理
+http://61.216.10.122:4020/VideoInput/play.ts
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tansuo.png" group-title="记录探索",探索亚洲
+http://61.216.10.122:4046/VideoInput/play.ts
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jishipindao.png" group-title="记录探索",全纪实（移动）
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225911/1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/natgeohd.png",group-title="记录探索",Nat Geo HD
+http://v.wangjiuling.com/tv?sv=LAWrQBMHLaugPtva6lOR
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/natgeowild.png",group-title="记录探索",Nat Geo Wild HD
+http://v.wangjiuling.com/tv?sv=zQN1oV2sqLi7AFVNxJKY
 
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/kbsworld.png",group-title="日韩",KBS World
 http://v.wangjiuling.com/tv?sv=9OdwRBOUvJCywCKQ2qWp
