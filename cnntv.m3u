@@ -648,7 +648,7 @@ http://v.wangjiuling.com/tv?sv=Jr3m1RPfpQfw2IvRYVPW
 http://v.wangjiuling.com/tv?sv=b3w0gLNCNbIQJINQyJaE
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/FOX-SPORT2.png",group-title="测试频道",FOX SPORT 2
 http://v.wangjiuling.com/tv?sv=mQjfx7Hy7CqJMoxv
-#EXTINF:0 tvg-logo="",group-title="测试频道",FOX SPORT
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/FOX-SPORT.png",group-title="测试频道",FOX SPORT
 http://v.wangjiuling.com/tv?sv=AKguWOF6yc0Oyp9X
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/foxnews.png",group-title="测试频道",FOX EWS
 http://v.wangjiuling.com/tv?sv=2DVfMwuqdU0Ybrg2
@@ -660,7 +660,7 @@ http://v.wangjiuling.com/tv?sv=vgymPm2Cv9COQfW0onAE
 http://v.wangjiuling.com/tv?sv=OnzXyXAflgTmzSNLdzAD
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/FoxMoviespremiumhd.png",group-title="测试频道",Fox Movie Premium HD
 http://v.wangjiuling.com/tv?sv=b3w0a06cNbIQJINQyJaE
-#EXTINF:0 tvg-logo="",group-title="测试频道",Fox Sports
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/FOX-SPORT2.png",group-title="测试频道",Fox Sports
 http://v.wangjiuling.com/tv?sv=pgjPbe8uqlirNCdLnjq0
 #EXTINF:0 tvg-logo="",group-title="测试频道",Fox Sports 3 HD
 http://v.wangjiuling.com/tv?sv=vgymN88Uv9COQfW0onAE
@@ -1316,5 +1316,4 @@ http://live-stream.kksmg.com/hls/wypd6a3b86be_c4eb57c5b5c8573f77a00e49/playlist.
 #EXTINF:-1 ,tvg-id="上海新闻综合" tvg-logo="http://iplaytv.oss-cn-beijing.aliyuncs.com/shdst.jpg" group-title="上海",上海艺术人文
 http://live-stream.kksmg.com/hls/ysrw8d72fe92_69e959eb988a8bcb17405bef/playlist.m3u8
 
-#EXTINF:-1 ,tvg-id="上海新闻综合" tvg-logo="http://iplaytv.oss-cn-beijing.aliyuncs.com/shdst.jpg" group-title="上海",上海艺术人文
-http://live-stream.kksmg.com/hls/ysrw8d72fe92_69e959eb988a8bcb17405bef/playlist.m3u8
+
