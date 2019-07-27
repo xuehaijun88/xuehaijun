@@ -126,7 +126,7 @@ http://v.wangjiuling.com/tv?sv=Xx9OQw0cPNcRncJbBAzm
 http://v.wangjiuling.com/tv?sv=E7NVXp4TWRFnAc4M8Jxr
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/cgtnjilu.png",group-title="IPTV",CGTN纪录
 http://v.wangjiuling.com/tv?sv=y1rX6gwsABFJ4H8W23DE
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/cetv1a.png",group-title="IPTV",CETV
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/cetv1a.png",group-title="IPTV",CETV-1
 http://v.wangjiuling.com/tv?sv=m9MKWY2sx7Hy7CqJaye8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/chcdongzuo.png",group-title="IPTV",CHC动作电影HD
 http://v.wangjiuling.com/tv?sv=zQN1o30cqLi7AFVjXrxE
@@ -874,8 +874,7 @@ http://112.50.243.8/PLTV/88888888/224/3221225855/1.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/neimengguweishi.png",group-title="卫视（移动）",内蒙古卫视HD
 http://39.134.65.162/PLTV/88888888/224/3221225577/index.m3u8
 
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/huanyuzonghe.png",group-title="IPTV",寰宇地理
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225911/1.m3u8
+
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/beijingkaku.png",group-title="IPTV",卡酷少儿
 http://zb.lxb666.xyz/gzzb.php?id=kaku
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingyingkatong.png",group-title="IPTV", 金鹰卡通
@@ -886,14 +885,6 @@ http://zb.lxb666.xyz/gzzb.php?id=dmxchd
 http://zb.lxb666.xyz/gzzb.php?id=zhms
 #EXTINF:0 tvg-logo="http://chuantu.xyz/t6/702/1563399169x2890208783.jpg",group-title="IPTV",FTV足球
 http://zb.lxb666.xyz/gzzb.php?id=zq
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianzitiyu.png",group-title="IPTV",vspn全电竞
-http://hls-ott-zhibo.wasu.tv/live/273/index.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/youyoubaobei.png",group-title="IPTV",优优宝贝
-http://112.17.40.140/PLTV/88888888/224/3221226829/index.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Xuandongkatong.png",group-title="IPTV",哈哈炫动
-http://223.110.241.204:6610/gitv/live1/G_XUANDONG/G_XUANDONG/
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/lanqiu.png",group-title="IPTV",篮球
-http://223.110.241.204:6610/gitv/live1/G_LANQIU/G_LANQIU/
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/mtvlivehd.png",group-title="IPTV",MTV-HD
 http://zb.lxb666.xyz/gzzb.php?id=mtv
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/yingyufudao.png",group-title="IPTV",英语辅导
@@ -906,6 +897,16 @@ http://zb.lxb666.xyz/gzzb.php?id=shdy
 http://zb.lxb666.xyz/gzzb.php?id=shsshd
 #EXTINF:0 tvg-logo="http://static2.tvzhe.com/channel/logo/SITV14.jpg",group-title="IPTV",东方财经
 http://zb.lxb666.xyz/gzzb.php?id=dfcjpd
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/huanyuzonghe.png",group-title="IPTV",寰宇地理
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225911/1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianzitiyu.png",group-title="IPTV",vspn全电竞
+http://hls-ott-zhibo.wasu.tv/live/273/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/youyoubaobei.png",group-title="IPTV",优优宝贝
+http://112.17.40.140/PLTV/88888888/224/3221226829/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Xuandongkatong.png",group-title="IPTV",哈哈炫动
+http://223.110.241.204:6610/gitv/live1/G_XUANDONG/G_XUANDONG/
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/lanqiu.png",group-title="IPTV",篮球
+http://223.110.241.204:6610/gitv/live1/G_LANQIU/G_LANQIU/
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/badaxiju.png",group-title="IPTV",七彩戏剧
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225934/1.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/xinyule.png",group-title="IPTV",新娱乐
@@ -914,8 +915,6 @@ http://223.110.241.139:6610/gitv/live1/G_XINYULE/G_XINYULE/
 http://223.110.241.139:6610/gitv/live1/G_JIATINGLC/G_JIATINGLC/
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tianyuanweiqi.png",group-title="IPTV",弈坛春秋
 http://223.110.241.139:6610/gitv/live1/G_YITANCQ/G_YITANCQ/
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Afc.png",group-title="IPTV",中华美食
-http://223.110.241.139:6610/gitv/live1/G_ZHENGJUANZX/G_ZHENGJUANZX/
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/guoxuepindao.png",group-title="IPTV",国学频道
 http://223.110.241.139:6610/gitv/live1/G_GUOXUE/G_GUOXUE/
 
