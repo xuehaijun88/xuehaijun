@@ -1053,6 +1053,8 @@ http://devlivepull.migucloud.com/live/e00e7b2868644d11bf7747b4e6edc1d8/playlist.
 http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbsxinwen.png",group-title="不翻能看系列",TVBS新闻
 http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/sanliduhuitai.png",group-title="不翻能看系列",三立都會
+http://60.250.69.26:8080/live/setcity9785.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/sanlixinwen.png",group-title="不翻能看系列",三立新闻
 http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsengxinwen.png",group-title="不翻能看系列",东森新闻
@@ -1065,8 +1067,6 @@ http://60.251.37.44:8080/live/gtv7659.m3u8
 http://60.250.69.26:8080/live/cti9785.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/gtvbadadiyitai.png",group-title="不翻能看系列",八大第一
 http://60.251.37.44:8080/live/gtvfirst7659.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/sanliduhuitai.png",group-title="不翻能看系列",三立都會
-http://60.250.69.26:8080/live/setcity9785.m3u8
 #EXTINF:0 tvg-logo="http://chuantu.xyz/t6/702/1564141580x992245926.png",group-title="不翻能看系列",緯來育乐
 http://60.250.69.26:8080/live/vlhappy8976.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/foxnews.png",group-title="不翻能看系列",FOX
@@ -1148,7 +1148,7 @@ http://60.251.37.44:8080/live/bbc1033.m3u8
 http://220.158.149.14:9999/live/TV00000000000000000083@HHZT;LIVE
 #EXTINF:0 tvg-logo="http://sport.videoland.com.tw/images/spt_logo-2.png" group-title="不翻能看系列", 緯來體育
 http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/kbsworld.png",group-title="不翻能看系列）",KBS WORLD
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/kbsworld.png",group-title="不翻能看系列",KBS WORLD
 http://220.158.149.14:9999/live/TV00000000000000000112@HHZT;LIVE
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Babyfirst-logo.png/345px-Babyfirst-logo.png" group-title="不翻能看系列", BabyFirst臺灣
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
