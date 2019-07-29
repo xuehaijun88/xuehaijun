@@ -1020,9 +1020,9 @@ http://v.wangjiuling.com/tv?sv=zvVUqLi7AFVNxJKY
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbhudongxinwena.png",group-title="不翻能看系列",TVB无线新闻台
 http://v.wangjiuling.com/tv?sv=zx8sqLi7AFVNyqee
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkc-xw.png",group-title=““,有线新闻台
-http://39.105.0.53/a2/hklive.m3u8?id=xgyxsw&tm=1563079342&ke
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkc-xw.png",group-title="不翻能看系列",有线新闻台
+http://39.105.0.53/a2/hklive.m3u8?id=xgyxsw&tm=1563079342&ke
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkc-xw.png",group-title="",有线新闻台
 http://104.233.205.110:888/v/ICABLENews.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkweishi.png",group-title="不翻能看系列",香港卫视HD
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
