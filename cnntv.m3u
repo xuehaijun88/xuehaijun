@@ -977,12 +977,12 @@ http://218.202.220.2:5000/nn_live.ts?id=STARTV
 http://weblive.hebtv.com/live/0/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbohd.png",group-title="不翻能看系列",HBO HD
 http://v.wangjiuling.com/tv?sv=XjOtPNcRncJb2poq
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Viu.png",group-title="不翻能看系列",VIUTV
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Viu.png",group-title="",VIUTV
 http://v.wangjiuling.com/tv?sv=eoAcR0hNrHR4oa9a
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Viu.png",group-title="不翻能看系列",VIUTV
+http://220.246.167.173:8080/0.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1024px-ViuTVsix-logo.svg.png" group-title="不翻能看系列",ViuTVsix
 http://220.246.167.173:8080/2.ts
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Viu.png",group-title="",VIUTV
-http://220.246.167.173:8080/0.ts
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/RHK-31a.png",group-title="不翻能看系列",RHK-31
 http://v.wangjiuling.com/tv?sv=Jr3mXaaHpQfw2IvJxMLX
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/RHK-32a.png",group-title="",港台電視 32
