@@ -848,7 +848,7 @@ http://223.110.241.204:6610/gitv/live1/G_XUANDONG/G_XUANDONG/
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/lanqiu.png",group-title="IPTV",篮球
 http://223.110.241.204:6610/gitv/live1/G_LANQIU/G_LANQIU/
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/badaxiju.png",group-title="IPTV",七彩戏剧
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225934/1.m3u8
+http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA93C58U30976010K77584345I9C6AA6DFPBM32250AEV1044EZ33519WE2392C52D81&playtoken=ABCDEFGHI&programid=4200000209.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/xinyule.png",group-title="IPTV",新娱乐
 http://223.110.241.139:6610/gitv/live1/G_XINYULE/G_XINYULE/
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jiatinglicai.png",group-title="IPTV",家庭理财
