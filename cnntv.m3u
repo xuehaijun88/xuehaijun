@@ -98,8 +98,7 @@ http://v.wangjiuling.com/tv?sv=6obEdeaCm2S30ID9qjJB
 http://v.wangjiuling.com/tv?sv=oMrVLmpH2lCAjcgnmNze
 
 
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/guangdongtiyu.png",group-title="IPTV",广东体育
-http://sk.live.otvcloud.com/otv/skcc/live/channel34/index.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dushijuchang.png",group-title="IPTV",都市剧场
 http://v.wangjiuling.com/tv?sv=6obEdJdSm2S30ID9qjJB
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/huanxiaojuchang.png",group-title="IPTV",欢笑剧场
@@ -816,6 +815,14 @@ http://112.50.243.8/PLTV/88888888/224/3221225855/1.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/neimengguweishi.png",group-title="卫视（移动）",内蒙古卫视HD
 http://39.134.65.162/PLTV/88888888/224/3221225577/index.m3u8
 
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/qimo.png",group-title="IPTV",汽摩
+http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA93C58U30976010K77584345I9C6AA6DFPBM32250AEV1044EZ33519WE2392C52D81&playtoken=ABCDEFGHI&programid=4200000072.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/renwupindao.png",group-title="IPTV",人物频道
+http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA93C58U30976010K77584345I9C6AA6DFPBM32250AEV1044EZ33519WE2392C52D81&playtoken=ABCDEFGHI&programid=4200000264.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/liangzhuang.png",group-title="IPTV",靓妆
+http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA93C58U30976010K77584345I9C6AA6DFPBM32250AEV1044EZ33519WE2392C52D81&playtoken=ABCDEFGHI&programid=4200000073.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tianyuanweiqi.png",group-title="IPTV",天元围棋
+http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA93C58U30976010K77584345I9C6AA6DFPBM32250AEV1044EZ33519WE2392C52D81&playtoken=ABCDEFGHI&programid=4200000205.m3u8
 
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/beijingkaku.png",group-title="IPTV",卡酷少儿
 http://zb.lxb666.xyz/gzzb.php?id=kaku
@@ -857,7 +864,6 @@ http://223.110.241.139:6610/gitv/live1/G_JIATINGLC/G_JIATINGLC/
 http://223.110.241.139:6610/gitv/live1/G_YITANCQ/G_YITANCQ/
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/guoxuepindao.png",group-title="IPTV",国学频道
 http://223.110.241.139:6610/gitv/live1/G_GUOXUE/G_GUOXUE/
-
 #EXTINF:-1 tvg-logo="http://chuantu.xyz/t6/702/1564086173x992245975.jpg" group-title="IPTV",黑莓电影HD
 http://223.110.241.204:6610/cntv/live1/jdianying/jdianying
 #EXTINF:-1 tvg-logo="http://chuantu.xyz/t6/702/1564086173x992245975.jpg" group-title="IPTV",黑莓动画HD
@@ -1089,7 +1095,7 @@ http://v.wangjiuling.com/tv?sv=6obErPMIm2S30IDVEepp
 http://60.251.37.44:8080/live/cnn1033.m3u8
 #EXTINF:0 tvg-logo="",group-title="不翻能看系列",CNBC
 http://60.251.37.44:8080/live/bbc1033.m3u8
-#EXTINF:0 tvg-logo="https://www.filmcommission.taipei/Upload/Taipeff/CompanyData/a71e651bceb9487.jpg" group-title="不翻能看系列", CNEX 紀實頻道
+#EXTINF:0 tvg-logo="https://www.filmcommission.taipei/Upload/Taipeff/CompanyData/a71e651bceb9487.jpg" group-title="不翻能看系列", CNEX DOC CHANNEL
 http://220.158.149.14:9999/live/TV00000000000000000083@HHZT;LIVE
 #EXTINF:0 tvg-logo="http://sport.videoland.com.tw/images/spt_logo-2.png" group-title="不翻能看系列", 緯來體育
 http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
@@ -1103,8 +1109,7 @@ http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 #EXTINF:0 tvg-logo="",group-title="不翻能看系列",环球电视台HD
 http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
-#EXTINF:0 tvg-logo="",group-title="不翻能看系列",星河剧献
-https://cn-jlcc-cu-live-03.live-play.acgvideo.com/live-bvc/live_281282463_1547722.m3u8?
+
 
 
 
