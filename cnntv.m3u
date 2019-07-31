@@ -584,8 +584,10 @@ http://v.wangjiuling.com/tv?sv=rxWIQmsA4cvEAVap
 http://v.wangjiuling.com/tv?sv=jBVtb7HPyCnJ1gmD
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/cnbc.png",group-title="翻墙区（港台）",CNBC
 http://v.wangjiuling.com/tv?sv=qxNcvlClBURXolgq
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbohd.png",group-title="翻墙区（港台）",HBO HD
+#EXTINF:0 tvg-logo="https://static.iptv-epg.com/us/HBO.us.png",group-title="翻墙区（港台）",HBO
 http://v.wangjiuling.com/tv?sv=XjOtPNcRncJb2poq
+#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/hbohd.png" group-title="翻墙区（港台）", HBO HD
+http://125.227.210.37:8895/VideoInput/play.ts
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/foxnews.png",group-title="翻墙区（港台）",FOX EWS
 http://v.wangjiuling.com/tv?sv=14KUg0iVbI7eRxVv
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/crnemax.png",group-title="翻墙区（港台）",CINEMAX
@@ -695,12 +697,10 @@ http://61.58.60.230:9319/live/244.m3u8
 http://113.196.177.81:8896/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="翻墙区（港台）", 國家地理
 http://61.216.10.122:4020/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="http://www.cns.net.tw/web/upload/20160908173455yhvHFdR.jpg" group-title="翻墙区（港台）", 好萊塢電影
+#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/hollywood.png" group-title="翻墙区（港台）", 好萊塢電影
 http://125.227.210.37:8909/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/HBO.us.png" group-title="翻墙区（港台）", HBO中文電影
 http://218.202.220.2:5000/nn_live.m3u8?id=HBO
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/HBO.us.png" group-title="翻墙区（港台）", HBO中文電影 HD
-http://125.227.210.37:8895/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/571_300.png" group-title="翻墙区（港台）", 探索頻道
 http://122.146.68.116:4046/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="http://ali-oss.file.icantv.cn/uploads/tvimg/wlrb.jpg" group-title="翻墙区（港台）", 緯來日本
