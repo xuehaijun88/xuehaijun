@@ -410,7 +410,9 @@ http://v.wangjiuling.com/tv?sv=V3rCVNS79FDPeKNN
 http://v.wangjiuling.com/tv?sv=3Ldfonuz1hw9rlbv
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/RHK-31a.png",group-title="翻墙区（港台）",RHK-31
 http://v.wangjiuling.com/tv?sv=31qNdaaSonuz1hwDNAjn
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Viu.png",group-title="翻墙区（港台）",VIUTV
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/RHK-32a.png",group-title="翻墙区（港台）",RHK-32
+http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Viu.png",group-title="",ViuTV
 http://v.wangjiuling.com/tv?sv=eoAcR0hNrHR4oa9a
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkc-jj.png",group-title="翻墙区（港台）",HKC剧集台
 http://v.wangjiuling.com/tv?sv=ME2c8MI9oflb8mgX
@@ -995,10 +997,6 @@ http://v.wangjiuling.com/tv?sv=eoAcR0hNrHR4oa9a
 http://220.246.167.173:8080/0.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1024px-ViuTVsix-logo.svg.png" group-title="不翻能看系列",ViuTVsix
 http://220.246.167.173:8080/2.ts
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/RHK-31a.png",group-title="不翻能看系列",RHK-31
-http://v.wangjiuling.com/tv?sv=Jr3mXaaHpQfw2IvJxMLX
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/RHK-32a.png",group-title="",港台電視 32
-http://104.233.205.110:888/v/ks.m3u8?id=73d6094006fa4979aab0e214840e8321
 #EXTINF:0 tvg-logo="https://s11.mogucdn.com/mlcdn/fe720b/190311_6h8k0jefh1fjg3lff98ifl4dghb25_240x149.jpg",group-title="不翻能看系列",香港开电视
 http://v.wangjiuling.com/tv?sv=V8YiVNS79FDPMerJ
 #EXTINF:-1 tvg-logo="http://www.fanstv.tw/images/logo.png" group-title="不翻能看系列", 番薯 TV
