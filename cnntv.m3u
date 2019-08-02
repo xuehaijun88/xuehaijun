@@ -123,12 +123,8 @@ http://v.wangjiuling.com/tv?sv=m9MKWY2sx7Hy7CqJaye8
 http://v.wangjiuling.com/tv?sv=zQN1o30cqLi7AFVjXrxE
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/chcjiating.png",group-title="IPTV",CHC家庭影院HD
 http://v.wangjiuling.com/tv?sv=4Xgld7DCx7HbPCrjwmJl
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/chcgaoqinga.png",group-title="IPTV",CHC家庭影院HD
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/chcgaoqinga.png",group-title="",CHC家庭影院HD
 http://zb.lxb666.xyz/gzzb.php?id=chchd
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/chcdongzuo.png",group-title="IPTV",CHC动作电影HD
-http://zb.lxb666.xyz/gzzb.php?id=chcdzhd
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/chcjiating.png",group-title="IPTV",CHC家庭影院HD
-http://zb.lxb666.xyz/gzzb.php?id=chcjthd
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/xinshijuec.png",group-title="IPTV",新视觉
 http://v.wangjiuling.com/tv?sv=Dlq28JosPycpOIEBpVvN
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/diyicaijinghd.png",group-title="IPTV",第一财经
@@ -412,7 +408,7 @@ http://v.wangjiuling.com/tv?sv=3Ldfonuz1hw9rlbv
 http://v.wangjiuling.com/tv?sv=31qNdaaSonuz1hwDNAjn
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/RHK-32a.png",group-title="翻墙区（港台）",RHK-32
 http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Viu.png",group-title="",ViuTV
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Viu.png",group-title="翻墙区（港台)",ViuTV
 http://v.wangjiuling.com/tv?sv=eoAcR0hNrHR4oa9a
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkc-jj.png",group-title="翻墙区（港台）",HKC剧集台
 http://v.wangjiuling.com/tv?sv=ME2c8MI9oflb8mgX
@@ -817,37 +813,25 @@ http://112.50.243.8/PLTV/88888888/224/3221225855/1.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/neimengguweishi.png",group-title="卫视（移动）",内蒙古卫视HD
 http://39.134.65.162/PLTV/88888888/224/3221225577/index.m3u8
 
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/qimo.png",group-title="IPTV",汽摩
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/qimo.png",group-title="",汽摩
 http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA93C58U30976010K77584345I9C6AA6DFPBM32250AEV1044EZ33519WE2392C52D81&playtoken=ABCDEFGHI&programid=4200000072.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/renwupindao.png",group-title="IPTV",人物频道
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/renwupindao.png",group-title="",人物频道
 http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA93C58U30976010K77584345I9C6AA6DFPBM32250AEV1044EZ33519WE2392C52D81&playtoken=ABCDEFGHI&programid=4200000264.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/liangzhuang.png",group-title="IPTV",靓妆
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/liangzhuang.png",group-title="",靓妆
 http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA93C58U30976010K77584345I9C6AA6DFPBM32250AEV1044EZ33519WE2392C52D81&playtoken=ABCDEFGHI&programid=4200000073.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tianyuanweiqi.png",group-title="IPTV",天元围棋
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tianyuanweiqi.png",group-title="",天元围棋
 http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA93C58U30976010K77584345I9C6AA6DFPBM32250AEV1044EZ33519WE2392C52D81&playtoken=ABCDEFGHI&programid=4200000205.m3u8
 
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/beijingkaku.png",group-title="IPTV",卡酷少儿
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/beijingkaku.png",group-title="",卡酷少儿
 http://zb.lxb666.xyz/gzzb.php?id=kaku
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingyingkatong.png",group-title="IPTV", 金鹰卡通
 http://124.232.231.246:6610/000000001001/201600020009/index.m3u8?A
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongmanxiuchang.png",group-title="IPTV",动漫秀场
-http://zb.lxb666.xyz/gzzb.php?id=dmxchd
-#EXTINF:0 tvg-logo="http://static2.tvzhe.com/channel/logo/CHINA-FOODTV.jpg",group-title="IPTV",中华美食
+#EXTINF:0 tvg-logo="http://static2.tvzhe.com/channel/logo/CHINA-FOODTV.jpg",group-title="",中华美食
 http://zb.lxb666.xyz/gzzb.php?id=zhms
-#EXTINF:0 tvg-logo="http://chuantu.xyz/t6/702/1563399169x2890208783.jpg",group-title="IPTV",FTV足球
-http://zb.lxb666.xyz/gzzb.php?id=zq
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/mtvlivehd.png",group-title="IPTV",MTV-HD
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/mtvlivehd.png",group-title="",MTV-HD
 http://zb.lxb666.xyz/gzzb.php?id=mtv
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/yingyufudao.png",group-title="IPTV",英语辅导
-http://zb.lxb666.xyz/gzzb.php?id=yyfd
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/youxifengyun.png",group-title="IPTV",游戏风云
-http://zb.lxb666.xyz/gzzb.php?id=yxfyhd
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/sihaodiaoyu.png",group-title="IPTV",四海垂钓
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/sihaodiaoyu.png",group-title="",四海垂钓
 http://zb.lxb666.xyz/gzzb.php?id=shdy
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dvshenghuo.png",group-title="IPTV",生活时尚
-http://zb.lxb666.xyz/gzzb.php?id=shsshd
-#EXTINF:0 tvg-logo="http://static2.tvzhe.com/channel/logo/SITV14.jpg",group-title="IPTV",东方财经
-http://zb.lxb666.xyz/gzzb.php?id=dfcjpd
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianzitiyu.png",group-title="IPTV",vspn全电竞
 http://hls-ott-zhibo.wasu.tv/live/273/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/youyoubaobei.png",group-title="IPTV",优优宝贝
@@ -856,8 +840,6 @@ http://112.17.40.140/PLTV/88888888/224/3221226829/index.m3u8
 http://223.110.241.204:6610/gitv/live1/G_XUANDONG/G_XUANDONG/
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/lanqiu.png",group-title="IPTV",篮球
 http://223.110.241.204:6610/gitv/live1/G_LANQIU/G_LANQIU/
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/badaxiju.png",group-title="IPTV",七彩戏剧
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA93C58U30976010K77584345I9C6AA6DFPBM32250AEV1044EZ33519WE2392C52D81&playtoken=ABCDEFGHI&programid=4200000209.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/xinyule.png",group-title="IPTV",新娱乐
 http://223.110.241.139:6610/gitv/live1/G_XINYULE/G_XINYULE/
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jiatinglicai.png",group-title="IPTV",家庭理财
@@ -870,22 +852,7 @@ http://223.110.241.139:6610/gitv/live1/G_GUOXUE/G_GUOXUE/
 http://223.110.241.204:6610/cntv/live1/jdianying/jdianying
 #EXTINF:-1 tvg-logo="http://chuantu.xyz/t6/702/1564086173x992245975.jpg" group-title="IPTV",黑莓动画HD
 http://223.110.241.204:6610/cntv/live1/donghuawg/donghuawg
-#EXTINF:-1 tvg-logo="http://chuantu.xyz/t6/702/1564087630x992245975.png" group-title="IPTV",DOX新知HD
-http://zb.lxb666.xyz/gzzb.php?id=doxxz
-#EXTINF:-1 tvg-logo="http://chuantu.xyz/t6/702/1564087630x992245975.png" group-title="IPTV",DOX新艺HD
-http://zb.lxb666.xyz/gzzb.php?id=doxxy
-#EXTINF:-1 tvg-logo="http://chuantu.xyz/t6/702/1564087630x992245975.png" group-title="IPTV",DOX怡家HD
-http://zb.lxb666.xyz/gzzb.php?id=doxyj
-#EXTINF:-1 tvg-logo="http://chuantu.xyz/t6/702/1564087630x992245975.png" group-title="IPTV",DOX英伦HD
-http://zb.lxb666.xyz/gzzb.php?id=doxyl
-#EXTINF:-1 tvg-logo="http://chuantu.xyz/t6/702/1564087630x992245975.png" group-title="IPTV",DOX院线HD
-http://zb.lxb666.xyz/gzzb.php?id=doxyx
-#EXTINF:-1 tvg-logo="http://chuantu.xyz/t6/702/1564087630x992245975.png" group-title="IPTV",DOX映画HD
-http://zb.lxb666.xyz/gzzb.php?id=doxyh
-#EXTINF:-1 tvg-logo="http://chuantu.xyz/t6/702/1564087630x992245975.png" group-title="IPTV",DOX美剧HD
-http://zb.lxb666.xyz/gzzb.php?id=doxmj
-#EXTINF:-1 tvg-logo="http://chuantu.xyz/t6/702/1564087630x992245975.png" group-title="IPTV",DOX雅趣HD
-http://zb.lxb666.xyz/gzzb.php?id=doxyq
+
 
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/goodtv.png",group-title="GOOD好消息台",GOOD综合台
 http://live.streamingfast.net/osmflivech1.m3u8
@@ -906,9 +873,9 @@ http://live.streamingfast.net/osmflivech40.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/goodtv.png",group-title="GOOD好消息台",GOOD烤箱读书会
 http://live.streamingfast.net/osmflivech44.m3u8
 
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/discoveryhd.png",group-title="记录探索",求索记录
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/discoveryhd.png",group-title="",求索记录
 http://zb.lxb666.xyz/gzzb.php?id=qsjlhd
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jishipindao.png" group-title="记录探索",全纪实
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jishipindao.png" group-title="",全纪实
 http://zb.lxb666.xyz/gzzb.php?id=qjshd
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/national.png",group-title="记录探索",国家地理
 http://61.216.10.122:4020/VideoInput/play.ts
