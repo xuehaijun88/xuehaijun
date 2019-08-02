@@ -654,6 +654,7 @@ http://stream.mastvnet.com/MSTV/SD/live.m3u8
 http://stream.mastvnet.com/MASTV/sd/live.m3u8
 
 
+
 #EXTINF:0 tvg-logo="http://www.goldentv.com.tw/Public/core/edit/attached/20180731084338_97500.png" group-title="翻墙区（港台）", 靖天歡樂
 http://61.58.60.230:9319/live/201.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtianzixun.png",group-title="翻墙区（港台）",靖天資訊台
@@ -676,15 +677,26 @@ http://61.58.60.230:9319/live/206.m3u8
 http://61.58.60.230:9319/live/123.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/guohui02.png" group-title="翻墙区（港台）", 國會頻道2台HD
 http://61.58.60.230:9319/live/124.m3u8
-#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/ce1bb1935f94fbefd44deecaf71726c2.jpg" group-title="翻墙区（港台）", 迪斯尼动画
-http://220.158.149.14:9999/live/TV00000000000000000113@HHZT;LIVE
-#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/hollywood.png" group-title="翻墙区（港台）", 好萊塢電影
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hollywood.png" group-title="翻墙区（港台）", 好萊塢電影
 http://125.227.210.37:8909/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="http://ali-oss.file.icantv.cn/uploads/tvimg/wlrb.jpg" group-title="翻墙区（港台）", 緯來日本
+#EXTINF:0 tvg-logo="http://ali-oss.file.icantv.cn/uploads/tvimg/wlrb.jpg" group-title="翻墙区（港台）", 緯來日本
 http://125.227.210.37:8884/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="http://sport.videoland.com.tw/images/spt_logo-2.png" group-title="翻墙区（港台）", 緯來體育
-http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
-
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/feifanxinwen.png",group-title="翻墙区（港台）",非凡新闻
+http://v.wangjiuling.com/tv?sv=pgjPb88HqlirNCdNw7VE
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/feifanxinwen.png",group-title="翻墙区（港台）",非凡新闻
+http://125.227.210.37:8900/VideoInput/play.ts
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/niandaixinwen.png",group-title="翻墙区（港台）",年代新闻
+http://v.wangjiuling.com/tv?sv=7oOAjlvuqJib6CBWgnx9
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/niandaixinwen.png",group-title="翻墙区（港台）",年代新闻
+http://125.227.210.37:8901/VideoInput/play.ts
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/sanlixinwen.png",group-title="翻墙区（港台）",三立新闻
+http://v.wangjiuling.com/tv?sv=0Lx8PrqUeNT0Aho2K4pJ
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/sanlixinwen.png",group-title="翻墙区（港台）",三立新闻
+http://125.227.210.37:8912/VideoInput/play.ts
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dw.png",group-title="翻墙区（港台）",DW (Deutsch)
+http://125.227.210.37:8934/VideoInput/play.ts
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/MTVtaiwan.png",group-title="翻墙区（港台）",MTV
+http://125.227.210.37:8935/VideoInput/play.ts
 
 
 
@@ -1062,6 +1074,8 @@ http://60.251.37.44:8080/live/bbc1033.m3u8
 http://220.158.149.14:9999/live/TV00000000000000000083@HHZT;LIVE
 #EXTINF:0 tvg-logo="http://sport.videoland.com.tw/images/spt_logo-2.png" group-title="不翻能看系列", 緯來體育
 http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
+#EXTINF:0 tvg-logo="http://www.vod-logo.net/photos/ce1bb1935f94fbefd44deecaf71726c2.jpg" group-title="不翻能看系列", 迪斯尼动画
+http://220.158.149.14:9999/live/TV00000000000000000113@HHZT;LIVE
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/kbsworld.png",group-title="不翻能看系列",KBS WORLD
 http://220.158.149.14:9999/live/TV00000000000000000112@HHZT;LIVE
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/babyfirst.png",group-title="不翻能看系列",Baby First
