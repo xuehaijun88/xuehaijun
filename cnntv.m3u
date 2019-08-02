@@ -930,6 +930,33 @@ http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
 http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
 
 
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="香港无线（稳定）",翡翠台HD
+http://v.wangjiuling.com/tv?sv=9eMuvJCywCK9OEzz
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbPearl.png",group-title="香港无线（稳定）",TVB明珠台
+http://v.wangjiuling.com/tv?sv=DPbIPycpOIExvPRb
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbj2.png",group-title="香港无线（稳定）",TVB J2台
+http://v.wangjiuling.com/tv?sv=zvVUqLi7AFVNxJKY
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbj2.png",group-title="香港无线（稳定）",TVB J2台
+http://220.246.167.173:8080/8.ts
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbwxcj.png",group-title="香港无线（稳定）",TVB财经咨询台
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbwxcj.png",group-title="香港无线（稳定）",TVB财经咨询台
+http://220.246.167.173:8080/6.ts
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbhudongxinwena.png",group-title="香港无线（稳定）",TVB无线新闻台
+http://v.wangjiuling.com/tv?sv=zx8sqLi7AFVNyqee
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbhudongxinwena.png",group-title="香港无线（稳定）",TVB无线新闻台
+http://220.246.167.173:8080/4.ts
+#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/314_300.png" group-title="香港无线（稳定）",TVB星河
+http://pull-l3-xg.ixigua.com/live/ch0002.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Viu.png",group-title="香港无线（稳定）",ViuTV
+http://v.wangjiuling.com/tv?sv=eoAcR0hNrHR4oa9a
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Viu.png",group-title="香港无线（稳定）",ViuTV
+http://220.246.167.173:8080/0.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1024px-ViuTVsix-logo.svg.png" group-title="香港无线（稳定）",ViuTVsix
+http://220.246.167.173:8080/2.ts
+
+
+
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="不翻能看系列",翡翠台HD
 http://v.wangjiuling.com/tv?sv=9eMuvJCywCK9OEzz
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbPearl.png",group-title="不翻能看系列",TVB明珠台
