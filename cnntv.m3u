@@ -929,8 +929,12 @@ http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="TVB香港无线（稳定）",TVB翡翠台
 http://v.wangjiuling.com/tv?sv=9eMuvJCywCK9OEzz
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="TVB香港无线（稳定）",TVB翡翠台
+http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbPearl.png",group-title="TVB香港无线（稳定）",TVB明珠台
 http://v.wangjiuling.com/tv?sv=DPbIPycpOIExvPRb
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbPearl.png",group-title="TVB香港无线（稳定）",TVB明珠台
+http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbj2.png",group-title="TVB香港无线（稳定）",TVB J2台
 http://v.wangjiuling.com/tv?sv=zvVUqLi7AFVNxJKY
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbj2.png",group-title="TVB香港无线（稳定）",TVB J2台
@@ -945,7 +949,7 @@ http://v.wangjiuling.com/tv?sv=zx8sqLi7AFVNyqee
 http://220.246.167.173:8080/4.ts
 #EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/314_300.png" group-title="TVB香港无线（稳定）",TVB星河
 http://pull-l3-xg.ixigua.com/live/ch0002.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Viu.png",group-title="TVB香港无线（稳定）",ViuTV
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Viu.png",group-title="",ViuTV
 http://v.wangjiuling.com/tv?sv=eoAcR0hNrHR4oa9a
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Viu.png",group-title="TVB香港无线（稳定）",ViuTV
 http://220.246.167.173:8080/0.ts
