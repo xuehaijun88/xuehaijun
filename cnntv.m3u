@@ -992,6 +992,18 @@ http://220.246.167.173:8080/2.ts
 http://v.wangjiuling.com/tv?sv=V8YiVNS79FDPMerJ
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/channelv.png",group-title="不翻能看系列",CHANNEL[V]
 http://220.158.149.14:9999/live/TV00000000000000000065@HHZT;LIVE
+
+
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhongshi.png",group-title="不翻能看系列",中视HD
+http://202.39.28.229:8113/0.ts
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/minshi.png",group-title="不翻能看系列",民视HD
+http://202.39.28.229:8114/0.ts
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/gongshi.png",group-title="不翻能看系列",公视HD
+http://202.39.28.229:8115/0.ts
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/huashi.png",group-title="不翻能看系列",华视新闻
+http://202.39.28.229:8112/0.ts
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/taishi.png",group-title="不翻能看系列",台视新闻
+http://202.39.28.229:8111/0.ts
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbshuanle.png",group-title="不翻能看系列",TVBS欢乐
 http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbsxinwen.png",group-title="不翻能看系列",TVBS新闻
@@ -1002,10 +1014,20 @@ http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
 http://60.250.69.26:8080/live/setcity9785.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/sanlixinwen.png",group-title="不翻能看系列",三立新闻
 http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/sanliduhuitai.png",group-title="不翻能看系列",三立都會
+http://202.39.28.229:8118/0.ts
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/sanlitaiwantai.png",group-title="不翻能看系列",三立台湾
+http://202.39.28.229:8119/0.ts
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsengxinwen.png",group-title="不翻能看系列",东森新闻
 http://61.216.10.122:4078/VideoInput/play.ts
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsenzonghe.png",group-title="不翻能看系列",东森综合
+http://202.39.28.229:8116/0.ts
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsenchaoshi.png",group-title="不翻能看系列",东森超视
+http://202.39.28.229:8117/0.ts
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhongtianyule.png",group-title="不翻能看系列",中天娱乐
 http://122.146.68.116:4007/VideoInput/play.ts
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhongtianyule.png",group-title="不翻能看系列",中天娱乐
+http://61.216.10.122:4007/VideoInput/play.ts
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhongtianzonghe.png",group-title="不翻能看系列",中天综合
 http://60.250.69.26:8080/live/cti9785.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/gtvbadazonghetai.png",group-title="不翻能看系列",八大综合
@@ -1069,6 +1091,14 @@ http://v.wangjiuling.com/tv?sv=1l1ada7tg0iVbI7eRzOz
 http://v.wangjiuling.com/tv?sv=dW3nanNuyXFWzsdjmN0N
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tlc.png",group-title="不翻能看系列",TLC Travel Asia
 http://v.wangjiuling.com/tv?sv=6obErPMIm2S30IDVEepp
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tlc.png",group-title="不翻能看系列",TLC 旅游
+http://202.39.28.229:8130/0.ts
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/weishizhongwentai.png",group-title="不翻能看系列",卫视国际台
+http://202.39.28.229:8127/0.ts
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/crnemax.png",group-title="不翻能看系列",CINE MAX
+http://202.39.28.229:8133/0.ts
+#EXTINF:0 tvg-logo="",group-title="不翻能看系列",星卫娱乐台
+http://202.39.28.229:8123/0.ts
 #EXTINF:0 tvg-logo="",group-title="不翻能看系列",CNN
 http://60.251.37.44:8080/live/cnn1033.m3u8
 #EXTINF:0 tvg-logo="",group-title="不翻能看系列",CNBC
