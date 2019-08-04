@@ -450,13 +450,13 @@ http://v.wangjiuling.com/tv?sv=YoaUqMiOAfl6g7w1
 http://v.wangjiuling.com/tv?sv=W4MvWrMIExuQDIwbQRoo
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/meiyadianyingtai.png",group-title="翻墙区（港台）",美亚电影台
 http://v.wangjiuling.com/tv?sv=1l1ae79Sg0iVbI7O4Vyy
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/axn.png",group-title="翻墙区（港台）",AXN（中文）
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/axn.png",group-title="翻墙区（港台）",AXN
 http://v.wangjiuling.com/tv?sv=eBY3xXjfR0hNrHR9X3LL
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbshuanle.png",group-title="翻墙区（港台）",TVBS欢乐
 http://v.wangjiuling.com/tv?sv=Xx9OQ3vsPNcRncJNz9yr
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/TVBS.png",group-title="翻墙区（港台）",TVBS HD
 http://v.wangjiuling.com/tv?sv=1l1adKRIg0iVbI7Odw20
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/TVBS.png",group-title="港台",TVBS精采台
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/TVBS.png",group-title="翻墙区（港台）",TVBS精采台
 http://v.wangjiuling.com/tv?sv=7oOA90nCqJib6CBWgnx9
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbsxinwen.png",group-title="翻墙区（港台）",TVBS 新闻台
 http://v.wangjiuling.com/tv?sv=qgQe4DWIvlClBURB7EQz
@@ -970,16 +970,26 @@ http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playli
 http://v.wangjiuling.com/tv?sv=zx8sqLi7AFVNyqee
 #EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/314_300.png" group-title="不翻能看系列",TVB星河
 http://pull-l3-xg.ixigua.com/live/ch0002.m3u8
-#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/aomenweishi.png" group-title="不翻能看系列",澳门卫视
-http://stream.mastvnet.com/MSTV/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkc-xw.png",group-title="",有线新闻台
 http://39.105.0.53/a2/hklive.m3u8?id=xgyxsw&tm=1563079342&ke
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkc-xw.png",group-title="",有线新闻台
 http://104.233.205.110:888/v/ICABLENews.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkweishi.png",group-title="不翻能看系列",香港卫视HD
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/xingkongweishi.png",group-title="不翻能看系列",星空卫视
 http://218.202.220.2:5000/nn_live.ts?id=STARTVu8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkweishi.png",group-title="不翻能看系列",香港卫视HD
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/aomenweishi.png" group-title="不翻能看系列",澳门卫视
+http://stream.mastvnet.com/MSTV/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/aomenweishi.png" group-title="不翻能看系列",澳门卫视
+http://stream.mastvnet.com/MSTV/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="不翻能看系列",澳视澳门
+http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4e/Canal_Macau.png" group-title="不翻能看系列",澳视葡文
+http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+#EXTINF:0 tvg-logo="http://www.nettv.live/uploads/18/1-1P5121Q245326.jpg" group-title="不翻能看系列",澳視體育
+http://103.233.191.138/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/TDM_Informa%C3%A7%C3%A3o.jpg" group-title="不翻能看系列",澳视资讯
+http://103.233.191.138/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbohd.png",group-title="不翻能看系列",HBO HD
 http://v.wangjiuling.com/tv?sv=XjOtPNcRncJb2poq
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Viu.png",group-title="",VIUTV
