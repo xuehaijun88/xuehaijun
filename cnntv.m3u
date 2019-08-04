@@ -980,15 +980,13 @@ http://218.202.220.2:5000/nn_live.m3u8?id=STARTV
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/aomenweishi.png" group-title="不翻能看系列",澳门卫视
 http://stream.mastvnet.com/MSTV/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/aomenweishi.png" group-title="不翻能看系列",澳门卫视
-http://stream.mastvnet.com/MSTV/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="不翻能看系列",澳视澳门
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="",澳视澳门
 http://61.244.22.4/ch1/ch1.live/playelist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4e/Canal_Macau.png" group-title="不翻能看系列",澳视葡文
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4e/Canal_Macau.png" group-title="",澳视葡文
 http://61.244.22.4/ch2/ch2.live/playelist.m3u8
-#EXTINF:0 tvg-logo="http://www.nettv.live/uploads/18/1-1P5121Q245326.jpg" group-title="不翻能看系列",澳視體育
+#EXTINF:0 tvg-logo="http://www.nettv.live/uploads/18/1-1P5121Q245326.jpg" group-title="",澳視體育
 http://103.233.191.138/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/TDM_Informa%C3%A7%C3%A3o.jpg" group-title="不翻能看系列",澳视资讯
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/TDM_Informa%C3%A7%C3%A3o.jpg" group-title="",澳视资讯
 http://103.233.191.138/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbohd.png",group-title="不翻能看系列",HBO HD
 http://v.wangjiuling.com/tv?sv=XjOtPNcRncJb2poq
