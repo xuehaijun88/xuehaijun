@@ -970,8 +970,8 @@ http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playli
 http://v.wangjiuling.com/tv?sv=zx8sqLi7AFVNyqee
 #EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/314_300.png" group-title="不翻能看系列",TVB星河
 http://pull-l3-xg.ixigua.com/live/ch0002.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkc-xw.png",group-title="",有线新闻台
-http://39.105.0.53/a2/hklive.m3u8?id=xgyxsw&tm=1563079342&ke
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkc-xw.png",group-title="不翻能看系列",有线新闻台
+http://c17.live.aliyuncdn.ottshopping.net/live/ttssreerfvvv.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkc-xw.png",group-title="",有线新闻台
 http://104.233.205.110:888/v/ICABLENews.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/xingkongweishi.png",group-title="不翻能看系列",星空卫视
