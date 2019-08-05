@@ -1101,11 +1101,11 @@ http://v.wangjiuling.com/tv?sv=dW3nanNuyXFWzsdjmN0N
 http://v.wangjiuling.com/tv?sv=6obErPMIm2S30IDVEepp
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tlc.png",group-title="不翻能看系列",TLC 旅游
 http://202.39.28.229:8130/0.ts
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/weishizhongwentai.png",group-title="不翻能看系列",卫视国际台
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/starplus.png",group-title="不翻能看系列",star world
 http://202.39.28.229:8127/0.ts
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/crnemax.png",group-title="不翻能看系列",CINE MAX
 http://202.39.28.229:8133/0.ts
-#EXTINF:0 tvg-logo="",group-title="不翻能看系列",星卫娱乐台
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/StarEntertainment.png",group-title="不翻能看系列",星卫娱乐台
 http://202.39.28.229:8123/0.ts
 #EXTINF:0 tvg-logo="",group-title="不翻能看系列",CNN
 http://60.251.37.44:8080/live/cnn1033.m3u8
