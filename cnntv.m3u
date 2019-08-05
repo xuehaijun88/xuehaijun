@@ -32,6 +32,8 @@ http://v.wangjiuling.com/tv?sv=lqKDY3PH0Bu2AHeJ8xEj
 http://v.wangjiuling.com/tv?sv=QYDdabycAoFEPcJ4YynN
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/cctv4k.png",group-title="CCTV央视",CCTV-4K
 http://59.44.24.27/cdn-out.iqy.sc96655.com/tslive/c204_scc_20190107_yvwl5h02_original_t10/c204_scc_20190107_yvwl5h02_original_t10.m3u8?wshc_tag=0&wsts_tag=5d17468d&wsid_tag=2acb8077&wsiphost=ipdbm#http://v.wangjiuling.com/tv?sv=8bg0lmJtXJiboCWQ7J9m
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/cctv4k.png",group-title="CCTV央视",CCTV-4K
+http://125.77.131.92/cdn-out.iqy.sc96655.com/tslive/c204_scc_20190107_yvwl5h02_original_t10/c204_scc_20190107_yvwl5h02_original_t10.m3u8?wshc_tag=0&wsts_tag=5d466962&wsid_tag=e198a70&wsiphost=ipdbm&nsukey=CzIcLcTQG%2FHT5Q4Nu5e%2F%2BPxKW9iuGt1FkOT5Tc82vNE2wHaZbao9Vq%2FoL4k8H3GfbPa%2BVLZmdsxnPcxIs%2FhF9UPle1M9VCH24tqtdk6aibeYsrALMNLwbn2TxYj6JTSiVxOSMiLgBRIRVeY25R64c0zAjYf9MqlqI1AQ4sNKX3G0%2F3Zo4ko4qeGtdJ5urmBoqXxPebPaR2lyh%2Fhj26I%2BrA%3D%3D
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/beijingweishia.png",group-title="CN卫视",北京卫视HD
 http://v.wangjiuling.com/tv?sv=ARq4X9lHWOF6yc0O2vJa
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongfangweishi.png",group-title="CN卫视",东方卫视HD
